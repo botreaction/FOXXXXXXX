@@ -1,1 +1,151 @@
-function _0x5902(_0x317e4e,_0x1e9294){const _0x1dbe21=_0x1dbe();return _0x5902=function(_0x590205,_0x182e5e){_0x590205=_0x590205-0x71;let _0x277d0f=_0x1dbe21[_0x590205];return _0x277d0f;},_0x5902(_0x317e4e,_0x1e9294);}const _0x382398=_0x5902;(function(_0x87d455,_0x4529ad){const _0xd28fda=_0x5902,_0x48b8b7=_0x87d455();while(!![]){try{const _0x3fac09=-parseInt(_0xd28fda(0x87))/0x1+-parseInt(_0xd28fda(0xa8))/0x2+-parseInt(_0xd28fda(0xa5))/0x3+parseInt(_0xd28fda(0x79))/0x4*(parseInt(_0xd28fda(0xb3))/0x5)+parseInt(_0xd28fda(0x84))/0x6*(-parseInt(_0xd28fda(0xbc))/0x7)+parseInt(_0xd28fda(0xc1))/0x8+parseInt(_0xd28fda(0xba))/0x9;if(_0x3fac09===_0x4529ad)break;else _0x48b8b7['push'](_0x48b8b7['shift']());}catch(_0x3d4aba){_0x48b8b7['push'](_0x48b8b7['shift']());}}}(_0x1dbe,0x24157));function _0x1dbe(){const _0x397918=['mtype','alloc','Scan\x20QR\x20ini\x20untuk\x20jadi\x20bot\x20sementara\x20🗿\x0a\x0a1.\x20Klik\x20titik\x20tiga\x20di\x20pojok\x20kanan\x20atas\x20🗿\x0a2.\x20Ketuk\x20WhatsApp\x20Web\x20🗿\x0a3.\x20Scan\x20QR\x20ini\x20🗿\x0aQR\x20Expired\x20dalam\x2030\x20detik\x20🗿','sendMessage','@s.whatsapp.net','connecting','remoteJid','exports','340tsKxPG','sendButMessage','Connecting\x20to\x20jadibot..','loggedOut','silent','conns','readFileSync','downloadMediaMessage','Dekstop','\x0aInfo\x20Script\x20:\x0a➸\x20Baileys\x20:\x20Multi\x20Device\x0a➸\x20Nama\x20Script\x20:\x20Ziro-MD\x0a➸\x20Creator\x20:\x20ZIRO\x0a\x0aFollow\x20My\x20Social\x20Media\x20Account\x20All\x20Yes\x20:\x0a➸\x20My\x20Youtube\x20:\x20Ziro-MD\x20OFFICIAL`\x0a➸\x20My\x20Instagram\x20:\x20@ziro_md\x0a\x0aDonase\x20Me\x20For\x20Support\x20:\x0a➸\x20DONASI\x20:\x20https://saweria.co/ZiroMD\x0a\x0aThanks\x0a','toDataURL','682692kafxFX','push','Update\x20','99221rZmeSA','statusCode','fromBuffer','contacts.update','red','split','now','server','msg','replace','base64','type','./module','WhatsApp','decodeJid','mimetype','messages.upsert','green','3.0','concat','getName','contacts','store','key','redBright','withoutContact','from','messages','resolve','international','449109ugWiyF','subject','keyword','272926VVZNSy','watchFile','*_Hallo\x20Kak\x20👋_*\x0a*Terdeteksi\x20User\x20Jadibot*\x0a\x0a\x20_×\x20User\x20:\x20@','test','log','status@broadcast','0@s.whatsapp.net','public','message','SC\x20Simple\x20By\x20Ziro-MD','open','7300seumzC','connection.update','user','output','notify','child','unwatchFile','2231325KZgrsq','./data/','7CGcQMv','time','downloadAndSaveMediaMessage','sendImage','length','2199544GkNQCC','isBuffer','bind','qrcode','cache','name'];_0x1dbe=function(){return _0x397918;};return _0x1dbe();}const {modul}=require(_0x382398(0x93)),{baileys,boom,chalk,fs,FileType,path,process,PhoneNumber}=modul,{Boom}=boom,{default:makeWaSocket,useSingleFileAuthState,DisconnectReason,fetchLatestBaileysVersion,generateForwardMessageContent,generateWAMessage,prepareWAMessageMedia,generateWAMessageFromContent,generateMessageID,downloadContentFromMessage,makeInMemoryStore,jidDecode,proto}=baileys,color=(_0x4764e9,_0x292d04)=>{const _0x3adc22=_0x382398;return!_0x292d04?chalk[_0x3adc22(0x98)](_0x4764e9):chalk[_0x3adc22(0xa7)](_0x292d04)(_0x4764e9);},log=pino=require('pino'),qrcode=require(_0x382398(0xc4)),{smsg}=require('./myfunc'),store=makeInMemoryStore({'logger':pino()[_0x382398(0xb8)]({'level':'silent','stream':_0x382398(0x9d)})});if(global[_0x382398(0x7e)]instanceof Array)console[_0x382398(0xac)]();else global[_0x382398(0x7e)]=[];const jadibot=async(_0x156de3,_0x423204,_0x48345b)=>{const _0x1f5a5f=_0x382398,{sendImage:_0x5e2ce7,sendMessage:_0x5b5ad9}=_0x156de3,{reply:_0x43957,sender:_0x35e8a2}=_0x423204,{state:_0x145284}=useSingleFileAuthState(_0x1f5a5f(0xbb)+_0x48345b+'.json'),_0x5a0069=()=>{const _0x294e2a=_0x1f5a5f,_0x4c04f9=makeWaSocket({'logger':pino({'level':_0x294e2a(0x7d)}),'printQRInTerminal':!![],'auth':_0x145284,'browser':[_0x294e2a(0xb1),_0x294e2a(0x81),_0x294e2a(0x99)]});console[_0x294e2a(0xac)](color('[\x20SC\x20BY\x20ZiroMD\x20]\x0a',_0x294e2a(0x8b)),color(_0x294e2a(0x82),_0x294e2a(0x8b))),store[_0x294e2a(0xc3)](_0x4c04f9['ev']),_0x4c04f9['ev']['on'](_0x294e2a(0x97),async _0x516a8d=>{const _0x58ec0f=_0x294e2a;try{m=_0x516a8d[_0x58ec0f(0xa2)][0x0];if(!m[_0x58ec0f(0xb0)])return;m[_0x58ec0f(0xb0)]=Object['keys'](m['message'])[0x0]==='ephemeralMessage'?m[_0x58ec0f(0xb0)]['ephemeralMessage'][_0x58ec0f(0xb0)]:m[_0x58ec0f(0xb0)];if(m['key']&&m[_0x58ec0f(0x9e)][_0x58ec0f(0x77)]===_0x58ec0f(0xad))return _0x4c04f9['readMessages']([m[_0x58ec0f(0x9e)]]);if(!_0x4c04f9[_0x58ec0f(0xaf)]&&!m[_0x58ec0f(0x9e)]['fromMe']&&_0x516a8d[_0x58ec0f(0x92)]===_0x58ec0f(0xb7))return;if(m['key']['id']['startsWith']('BAE5')&&m[_0x58ec0f(0x9e)]['id'][_0x58ec0f(0xc0)]===0x10)return;_0x423204=smsg(_0x4c04f9,m,store),require('./kw')(_0x4c04f9,_0x423204,_0x516a8d,store);}catch(_0x52f960){console['log'](_0x52f960);}}),_0x4c04f9['ev']['on'](_0x294e2a(0xb4),async _0x2c8eb5=>{const _0x45f872=_0x294e2a,{lastDisconnect:_0x187b7b,connection:_0x3f3604}=_0x2c8eb5;if(_0x3f3604==_0x45f872(0x76))return;if(_0x3f3604){if(_0x3f3604!=_0x45f872(0x76))console[_0x45f872(0xac)](_0x45f872(0x7b));}console[_0x45f872(0xac)](_0x2c8eb5);if(_0x2c8eb5['qr'])await _0x5e2ce7(_0x48345b,await qrcode[_0x45f872(0x83)](_0x2c8eb5['qr'],{'scale':0x8}),_0x45f872(0x73),m);console[_0x45f872(0xac)](_0x3f3604),_0x3f3604==_0x45f872(0xb2)&&(_0x4c04f9['id']=_0x4c04f9[_0x45f872(0x95)](_0x4c04f9['user']['id']),_0x4c04f9[_0x45f872(0xbd)]=Date[_0x45f872(0x8d)](),global['conns'][_0x45f872(0x85)](_0x4c04f9),user=''+_0x4c04f9[_0x45f872(0x95)](_0x4c04f9[_0x45f872(0xb5)]['id']),txt=_0x45f872(0xaa)+user[_0x45f872(0x8c)]('@')[0x0]+'_',_0x5b5ad9('6289688206739@s.whatsapp.net',{'text':txt,'mentions':[user]})),_0x3f3604==='close'&&(_0x187b7b['error']?.[_0x45f872(0xb6)]?.[_0x45f872(0x88)]!==DisconnectReason[_0x45f872(0x7c)]?_0x5a0069():'');}),_0x4c04f9[_0x294e2a(0x95)]=_0x50a6a0=>{const _0xacc83e=_0x294e2a;if(!_0x50a6a0)return _0x50a6a0;if(/:\d+@/gi[_0xacc83e(0xab)](_0x50a6a0)){let _0x356305=jidDecode(_0x50a6a0)||{};return _0x356305['user']&&_0x356305[_0xacc83e(0x8e)]&&_0x356305['user']+'@'+_0x356305[_0xacc83e(0x8e)]||_0x50a6a0;}else return _0x50a6a0;},_0x4c04f9['ev']['on'](_0x294e2a(0x8a),_0x177538=>{const _0x4a82eb=_0x294e2a;for(let _0x40b051 of _0x177538){let _0x6fc7ae=_0x4c04f9[_0x4a82eb(0x95)](_0x40b051['id']);if(store&&store[_0x4a82eb(0x9c)])store[_0x4a82eb(0x9c)][_0x6fc7ae]={'id':_0x6fc7ae,'name':_0x40b051[_0x4a82eb(0xb7)]};}}),_0x4c04f9[_0x294e2a(0x9b)]=(_0x1b3183,_0x273b0f=![])=>{const _0x2cc153=_0x294e2a;id=_0x4c04f9[_0x2cc153(0x95)](_0x1b3183),_0x273b0f=_0x4c04f9[_0x2cc153(0xa0)]||_0x273b0f;let _0x159aa2;if(id['endsWith']('@g.us'))return new Promise(async _0x6a72b3=>{const _0x3ac970=_0x2cc153;_0x159aa2=store[_0x3ac970(0x9c)][id]||{};if(!(_0x159aa2['name']||_0x159aa2[_0x3ac970(0xa6)]))_0x159aa2=_0x4c04f9['groupMetadata'](id)||{};_0x6a72b3(_0x159aa2[_0x3ac970(0xc6)]||_0x159aa2['subject']||PhoneNumber('+'+id[_0x3ac970(0x90)]('@s.whatsapp.net',''))['getNumber']('international'));});else _0x159aa2=id===_0x2cc153(0xae)?{'id':id,'name':_0x2cc153(0x94)}:id===_0x4c04f9[_0x2cc153(0x95)](_0x4c04f9[_0x2cc153(0xb5)]['id'])?_0x4c04f9[_0x2cc153(0xb5)]:store[_0x2cc153(0x9c)][id]||{};return(_0x273b0f?'':_0x159aa2[_0x2cc153(0xc6)])||_0x159aa2['subject']||_0x159aa2['verifiedName']||PhoneNumber('+'+_0x1b3183[_0x2cc153(0x90)](_0x2cc153(0x75),''))['getNumber'](_0x2cc153(0xa4));},_0x4c04f9[_0x294e2a(0xaf)]=![],_0x4c04f9[_0x294e2a(0xbe)]=async(_0x14988f,_0x1cd09f,_0x3dfd71=!![])=>{const _0x45fa8e=_0x294e2a;let _0x2bcc85=_0x14988f[_0x45fa8e(0x8f)]?_0x14988f['msg']:_0x14988f,_0x1dba62=(_0x14988f[_0x45fa8e(0x8f)]||_0x14988f)[_0x45fa8e(0x96)]||'',_0x2b0389=_0x14988f[_0x45fa8e(0x71)]?_0x14988f[_0x45fa8e(0x71)]['replace'](/Message/gi,''):_0x1dba62[_0x45fa8e(0x8c)]('/')[0x0];const _0x1af458=await downloadContentFromMessage(_0x2bcc85,_0x2b0389);let _0x1474fe=Buffer[_0x45fa8e(0xa1)]([]);for await(const _0x56a987 of _0x1af458){_0x1474fe=Buffer[_0x45fa8e(0x9a)]([_0x1474fe,_0x56a987]);}let _0x3c752b=await FileType[_0x45fa8e(0x89)](_0x1474fe);return trueFileName=_0x3dfd71?_0x1cd09f+'.'+_0x3c752b['ext']:_0x1cd09f,await fs['writeFileSync'](trueFileName,_0x1474fe),trueFileName;},_0x4c04f9[_0x294e2a(0x80)]=async _0x50d6ea=>{const _0x2b4413=_0x294e2a;let _0x2c37a0=(_0x50d6ea[_0x2b4413(0x8f)]||_0x50d6ea)[_0x2b4413(0x96)]||'',_0x1d41c4=_0x50d6ea[_0x2b4413(0x71)]?_0x50d6ea[_0x2b4413(0x71)][_0x2b4413(0x90)](/Message/gi,''):_0x2c37a0[_0x2b4413(0x8c)]('/')[0x0];const _0x17bdd3=await downloadContentFromMessage(_0x50d6ea,_0x1d41c4);let _0x4c06ed=Buffer[_0x2b4413(0xa1)]([]);for await(const _0xf01cd4 of _0x17bdd3){_0x4c06ed=Buffer['concat']([_0x4c06ed,_0xf01cd4]);}return _0x4c06ed;};const {getImg:_0x1bf410}=require('./functions');_0x4c04f9[_0x294e2a(0xbf)]=async(_0x248d02,_0x2d279c,_0x54cc9f='',_0x1903c1='',_0x396f1d)=>{const _0x4af35b=_0x294e2a;let _0x57bfab=Buffer[_0x4af35b(0xc2)](_0x2d279c)?_0x2d279c:/^data:.*?\/.*?;base64,/i[_0x4af35b(0xab)](_0x2d279c)?Buffer[_0x4af35b(0xa1)](_0x2d279c[_0x4af35b(0x8c)]`,`[0x1],_0x4af35b(0x91)):/^https?:\/\//[_0x4af35b(0xab)](_0x2d279c)?await await getBuffer(_0x2d279c):fs['existsSync'](_0x2d279c)?fs[_0x4af35b(0x7f)](_0x2d279c):Buffer[_0x4af35b(0x72)](0x0);return await _0x4c04f9['sendMessage'](_0x248d02,{'image':_0x57bfab,'caption':_0x54cc9f,..._0x396f1d},{'quoted':_0x1903c1});},_0x4c04f9[_0x294e2a(0x7a)]=(_0x5b2c1c,_0x5ec49c=[],_0x3b0972,_0x40ff2d,_0x5df960='',_0x4dd14a={})=>{const _0x18cce6=_0x294e2a;let _0x47c337={'text':_0x3b0972,'footer':_0x40ff2d,'buttons':_0x5ec49c,'headerType':0x2,..._0x4dd14a};_0x4c04f9[_0x18cce6(0x74)](_0x5b2c1c,_0x47c337,{'quoted':_0x5df960,..._0x4dd14a});};};_0x5a0069();};module[_0x382398(0x78)]={'jadibot':jadibot,'conns':conns};let file=require[_0x382398(0xa3)](__filename);fs[_0x382398(0xa9)](file,()=>{const _0x470e6b=_0x382398;fs[_0x470e6b(0xb9)](file),console[_0x470e6b(0xac)](chalk[_0x470e6b(0x9f)](_0x470e6b(0x86)+__filename)),delete require[_0x470e6b(0xc5)][file],require(file);});
+const { modul } = require("./module");
+const { baileys, boom, chalk, fs, FileType, path, process, PhoneNumber } = modul;
+const { Boom } = boom
+const { default: makeWaSocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, generateWAMessage, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = baileys
+const color = (text, color) => { return !color ? chalk.green(text) : chalk.keyword(color)(text) }
+const log = (pino = require("pino"));
+const qrcode = require("qrcode");
+const { smsg } = require('./myfunc')
+const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+
+if (global.conns instanceof Array) console.log()
+else global.conns = []
+
+const jadibot = async (client, msg, from) => {
+const { sendImage, sendMessage } = client;
+const { reply, sender } = msg;
+const { state } = useSingleFileAuthState(`./data/${from}.json`)
+
+const connectToWhatsApp = () => {
+const client = makeWaSocket({ logger: pino ({ level: 'silent' }), printQRInTerminal: true, auth: state, browser: ["SC Simple By Ziro-MD", "Dekstop", "3.0"]})
+console.log(color('[ SC BY ZiroMD ]\n', 'red'),color('\nInfo Script :\n➸ Baileys : Multi Device\n➸ Nama Script : Ziro-MD\n➸ Creator : ZIRO\n\nFollow My Social Media Account All Yes :\n➸ My Youtube : Ziro-MD OFFICIAL`\n➸ My Instagram : @ziro_md\n\nDonase Me For Support :\n➸ DONASI : https://saweria.co/ZiroMD\n\nThanks\n', 'red'))
+
+store.bind(client.ev)
+
+client.ev.on('messages.upsert', async chatUpdate => {
+try {
+m = chatUpdate.messages[0]
+if (!m.message) return
+m.message = (Object.keys(m.message)[0] === 'ephemeralMessage') ? m.message.ephemeralMessage.message : m.message
+if (m.key && m.key.remoteJid === 'status@broadcast') return client.readMessages([m.key])
+if (!client.public && !m.key.fromMe && chatUpdate.type === 'notify') return
+if (m.key.id.startsWith('BAE5') && m.key.id.length === 16) return
+msg = smsg(client, m, store)
+require('./kw')(client, msg, chatUpdate, store)
+} catch (err) {
+console.log(err)}})
+
+client.ev.on("connection.update", async up => {
+const { lastDisconnect, connection } = up;
+if (connection == "connecting") return
+if (connection){
+if (connection != "connecting") console.log("Connecting to jadibot..")
+}
+console.log(up)
+if (up.qr) await sendImage(from, await qrcode.toDataURL(up.qr,{scale : 8}), 'Scan QR ini untuk jadi bot sementara 🗿\n\n1. Klik titik tiga di pojok kanan atas 🗿\n2. Ketuk WhatsApp Web 🗿\n3. Scan QR ini 🗿\nQR Expired dalam 30 detik 🗿', m)
+console.log(connection)
+if (connection == "open") {
+client.id = client.decodeJid(client.user.id)
+client.time = Date.now()
+global.conns.push(client)
+user = `${client.decodeJid(client.user.id)}`
+txt = `*_Hallo Kak 👋_*\n*Terdeteksi User Jadibot*\n\n _× User : @${user.split("@")[0]}_`
+sendMessage(`6289688206739@s.whatsapp.net`,{text: txt, mentions : [user]})
+}
+if (connection === 'close') {
+lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut ? connectToWhatsApp() : ''
+}
+})
+
+client.decodeJid = (jid) => {
+if (!jid) return jid
+if (/:\d+@/gi.test(jid)) {
+let decode = jidDecode(jid) || {}
+return decode.user && decode.server && decode.user + '@' + decode.server || jid
+} else return jid
+}
+
+client.ev.on('contacts.update', update => {
+for (let contact of update) {
+let id = client.decodeJid(contact.id)
+if (store && store.contacts) store.contacts[id] = { id, name: contact.notify }
+}
+})
+
+client.getName = (jid, withoutContact  = false) => {
+id = client.decodeJid(jid)
+withoutContact = client.withoutContact || withoutContact 
+let v
+if (id.endsWith("@g.us")) return new Promise(async (resolve) => {
+v = store.contacts[id] || {}
+if (!(v.name || v.subject)) v = client.groupMetadata(id) || {}
+resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
+})
+else v = id === '0@s.whatsapp.net' ? {
+id,
+name: 'WhatsApp'
+} : id === client.decodeJid(client.user.id) ?
+client.user :
+(store.contacts[id] || {})
+return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
+}
+
+client.public = false
+
+client.downloadAndSaveMediaMessage = async (message, filename, attachExtension = true) => {
+let quoted = message.msg ? message.msg : message
+let mime = (message.msg || message).mimetype || ''
+let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+const stream = await downloadContentFromMessage(quoted, messageType)
+let buffer = Buffer.from([])
+for await(const chunk of stream) {
+buffer = Buffer.concat([buffer, chunk])
+}
+let type = await FileType.fromBuffer(buffer)
+trueFileName = attachExtension ? (filename + '.' + type.ext) : filename
+await fs.writeFileSync(trueFileName, buffer)
+return trueFileName
+}
+
+client.downloadMediaMessage = async (message) => {
+let mime = (message.msg || message).mimetype || ''
+let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+const stream = await downloadContentFromMessage(message, messageType)
+let buffer = Buffer.from([])
+for await(const chunk of stream) {
+buffer = Buffer.concat([buffer, chunk])
+}
+return buffer
+}
+
+const { getImg } = require('./functions')
+
+client.sendImage = async (jid, path, caption = '', quoted = '', options) => {
+let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+return await client.sendMessage(jid, { image: buffer, caption: caption, ...options }, { quoted })
+}
+
+client.sendButMessage = (jid, buttons = [], text, footer, quoted = '', options = {}) => {
+let buttonMessage = {
+text,
+footer,
+buttons,
+headerType: 2,
+...options
+}
+client.sendMessage(jid, buttonMessage, { quoted, ...options })
+}
+
+}
+connectToWhatsApp()
+}
+
+module.exports = { jadibot, conns }
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+    fs.unwatchFile(file)
+    console.log(chalk.redBright(`Update ${__filename}`))
+    delete require.cache[file]
+    require(file)
+})

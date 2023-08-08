@@ -1,1 +1,662 @@
-function _0x46f9(){const _0x17a8df=['./data/user.json','乂\x20*PUSH\x20KONTOL*\x0a┌⁠────\x0a○\x20','resolve','sewa\x0a└────\x0a乂\x20*PUSH\x20KONTOL*\x0a┌⁠────\x0a○\x20','split','format','from','allmenu\x0a○\x20','45nJXJPH','Private\x20Chat','sendMessage','payment\x0a○\x20','payment','*DONE*\x0aFile\x20Kontak\x20Dah\x20Di\x20Send\x20Ke\x20Chat\x20Prib\x20Ya\x20Ganteng','awesome-phonenumber','TEL;type=CELL;type=VOICE;waid=','priv','\x0aSewa\x20Bot\x20?\x20Hubungi\x20Admin\x20Untuk\x20Nego\x20Wa.me/62877-8024-1924','post','hex','crypto','baik\x20ka\x20*','jpm\x20*teks|jeda*\x0a○\x20','data','0@s.whatsapp.net','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','extendedTextMessage','*MODE\x20SELEB*','\x20linkgc','groupFetchAllParticipating','乂\x20*STORE\x20MENU*\x0a┌────\x0a○\x20','arraybuffer','Penggunaan\x20Salah\x20Silahkan\x20Gunakan\x20Command\x20Seperti\x20Ini\x0a','script\x0a○\x20','quoted','storemenu\x0a○\x20','join','\x20idgroup\x0aUntuk\x20Liat\x20Id\x20Group\x20Silahkan\x20Ketik\x20.cekidgc','user','admin','profilePictureUrl','text/vcard','randomBytes','*\x0aadmin\x20akan\x20memproses\x20pesanan\x20anda\x20harap\x20bersabar\x20ya\x20ka','script','pushkontakmenu','imageMessage','msg','乂\x20*OWNER\x20MENU*\x0a┌────\x0a○\x20','\x1b[1;31m~\x1b[1;37m>\x20[\x1b[1;32mCMD\x1b[1;37m]','./upload','toLowerCase','groupMetadata','public','@s.whatsapp.net','random','downloadAndSaveMediaMessage','then','\x0a\x0a*OVO🪪:*\x0a','filter','whatsapp.com','\x0a\x0a℗\x20Butuh\x20Qrish\x20?\x20Ketik\x20.qrish\x0a℗\x20SERTAKAN\x20BUKTI\x20TRX\x20AGAR\x20LANGSUNG\x20DI\x20PROSES\x0a℗\x20KETIK','log','documentMessage','.net','737402yXQtoq','catch','participants','util','Hallo\x20Kak\x20@','public\x0a○\x20','bold','./data/database/contacts.vcf','child_process','./owner.json','rgb','message','mimetype','./data/database/contacts.json','caption','utf8','allmenu','4926850XhsDKq','jadibot\x0a○\x20','keyword','chalk','entries','unwatchFile','END:VCARD','\x0a│⭔\x20*MEMBER\x20:*\x20','test','pushkontakv1\x20*teks*\x0a○\x20','readFileSync','./jadibot','writeFileSync','pushkontak\x20id|teks\x0a\x0aSebelum\x20Menggunakan\x20Silahkan\x20Salin\x20Dulu\x20Id\x20Group\x20Nya\x20Di\x20Atas','VERSION:3.0','Link\x20Invalid!','FN:WA[','\x0a\x0aitem1.X-ABLabel:Ponsel\x0a\x0aitem2.EMAIL;type=INTERNET:tesheroku123@gmail.com\x0a\x0aitem2.X-ABLabel:Email\x0a\x0aitem3.URL:https://bit.ly/39Ivus6\x0a\x0aitem3.X-ABLabel:YouTube\x0a\x0aitem4.ADR:;;Indonesia;;;;\x0a\x0aitem4.X-ABLabel:Region\x0a\x0aEND:VCARD','https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60','pushkontakv1','https://chat.whatsapp.com/','contacts.vcf','pushkontakmenu\x0a○\x20','performance-now','ownermenu\x0a○\x20',',\x0aitem1.TEL;waid=','Maaf\x20Fitur\x20Ini\x20Hanya\x20Bisa\x20Digunakan\x20Oleh\x20Admin\x20Group','pushkontakv2\x20*idgroup|jeda|teks*\x0a○\x20','menu','pushkontakv3\x20*jeda|teks*\x0a○\x20','formatpost\x0a○\x20','150353sOvKNh','syntax-error','parse','storemenu','cekidgc\x0a○\x20','pushName','Nih\x20Kak\x20Tinggal\x20Pencet\x20File\x20Di\x20Atas\x20Terus\x20Save','splice','4TNxDOP','proses\x0a○\x20','\x0aitem1.X-ABLabel:Ponsel\x0aEND:VCARD','*MODE\x20FRIENDLY*','locale','tekspushkonv2','\x0a\x0a*GOPAY🪪:*\x0a','\x0a└──────────\x0a\x0a乂\x20*LIST\x20MENU*\x0a┌────\x0a○\x20','toString','path','*DONE*\x0a\x20File\x20Udah\x20di\x20kirim\x20ke\x20chat\x20pribadi\x20ya\x20ganteng','sewa','BEGIN:VCARD\x0a\x0aVERSION:3.0\x0a\x0aN:','slice','𝕱𝗼𝘅𝘀𝘁𝗼𝗿𝗲‼️','\x20teks','\x0a│⭔\x20*ID\x20:*\x20','🛍️*\x0a\x0a⚇\x20ITEM\x20:\x0a⚇\x20DANA\x20:\x0a⚇\x20MC\x20:\x0a⚇\x20NO\x20WA\x20:\x0a\x0a㊂\x20Ada\x20stok\x20hub\x20ke\x20no\x20di\x20atas\x0a㊂\x20Wajib\x20Menggunakan\x20jasa\x20*','selectedButtonId','tekspushkon','owner','moment-timezone','getName','map','endsWith','watchFile','⬣\x20*LIST\x20GROUP\x20ANDA*\x0a\x0aTotal\x20Group\x20:\x20','\x20idgroup|tekspushkontak\x0aUntuk\x20Liat\x20Id\x20Group\x20Silahkan\x20Ketik\x20.cekidgc','tagall','Update\x20','templateButtonReplyMessage','pushkontakv3','buttonsResponseMessage','tekspushkonv1','939939sICSqb','exports','key','*FORMAT\x20NEED\x20BY\x20','https://telegra.ph/file/3c485ff201d9337be14ef.jpg','584Zxelpu','length','group','proses','\x20jeda|teks','get','Asia/Jakarta','self','inspect','chat','matchAll','toUpperCase','replace','stringify','pushkontak\x20*idgroup|teks*\x0a○\x20','formatneed\x0a○\x20','tekspushkonv3','8994744vhHISH','groupAcceptInvite','axios','sender','\x20GROUP\x0a\x0a','hmmmmmmm\x20🗿','Group\x20Chat','owner\x0a○\x20','conversation','sukses','string','savecontact','green','2907168TuVrsG','trim','⊝\x20@','videoMessage','charAt','./functions.js','includes','self\x0a○\x20','teks\x20nya\x20mna\x20ka\x20?\x0a\x0aexm\x20:\x20pushkontakv2\x2061937191638|1000|sv\x20memek','🛍️*\x0a[\x20Bukan\x20Milik\x20Admin\x20]\x0a\x0a⚇\x20ITEM\x20:\x0a⚇\x20SPEK\x20:\x0a⚇\x20LOG\x20:\x0a⚇\x20HARGA\x20:\x0a⚇\x20NO\x20WA\x20:\x0a\x0a㊂\x20Tawar\x20Menawar\x20Hub\x20no\x20di\x20atas\x0a㊂\x20Wajib\x20Menggunakan\x20jasa\x20*','status@broadcast','*⌜\x20DONASI\x20BUAT\x20BOT\x20⌟*\x0a\x0a♖\x20DONASI\x20♖\x0a\x0a*💳\x20DANA*\x0a0812-8335-3320\x0aA/N\x20:\x20E**S\x20P******H\x0a\x0a*💳\x20GOPAY*\x0a0812-8335-3320\x0aA/N\x20:\x20D**e\x20S***a\x0a\x0a*TERIMA\x20KASIH\x20SUDAH\x20BERDONASI😙*','donasi\x0a└────','\x0a\x0aitem1.TEL;waid=','./config.js','selectedId','\x20teks|jeda\x0a\x0aReply\x20Gambar\x20Untuk\x20Mengirim\x20Gambar\x20Ke\x20Semua\x20Group\x0aUntuk\x20Jeda\x20Itu\x20Delay\x20Jadi\x20Nominal\x20Jeda\x20Itu\x201000\x20=\x201\x20detik','tagall\x20*teks*\x0a└────\x0a乂\x20*STORE\x20MENU*\x0a┌────\x0a○\x20','BEGIN:VCARD','Selamat\x20','sewa\x0a└────','isGroup','savecontact\x20*idgroup*\x0a└────','*Penggunaan\x20Salah\x20Silahkan\x20Gunakan\x20Seperti\x20Ini*\x0a','join\x20*linkgroup*\x0a○\x20',',\x20Itu\x20Owner\x20Ku\x20Dia\x20Lagi\x20Need\x20Kontak\x20Cewek\x20Save\x20Ya\x20Buat\x20Cewek,\x20Bytheway\x20Jangan\x20Galak-galak\x20Ya.','❏\x20*INFO\x20GROUP*\x0a│⭔\x20*NAMA\x20:*\x20','https://telegra.ph/file/2c10797e2b046bb532d1c.jpg','Sukses\x20Tinggal\x20Save\x20Ya\x20Kakak','\x0a\x0aFN:','*FORMAT\x20JASA\x20POST\x20BY\x20','othermenu','othermenu\x0a└────\x0a\x0a*©\x20ChiooBotz\x20\x20||\x20BY\x20WilyKun*','push','donasi\x0a└────\x0a*©\x20ChiooBotz\x20\x20||\x20BY\x20WilyKun*','savecontactv1\x0a○\x20','9713115tyyxcD','ownermenu','text','cheerio','startsWith','tagall\x20*teks*\x0a└────','*\x0a㊂\x20Be\x20smart\x20buyer\x20&\x20seler','\x20Kontak'];_0x46f9=function(){return _0x17a8df;};return _0x46f9();}function _0x7ccd(_0x25c93f,_0x805b5a){const _0x46f969=_0x46f9();return _0x7ccd=function(_0x7ccd89,_0x360a5c){_0x7ccd89=_0x7ccd89-0x119;let _0x58dc0c=_0x46f969[_0x7ccd89];return _0x58dc0c;},_0x7ccd(_0x25c93f,_0x805b5a);}const _0x1a2955=_0x7ccd;(function(_0x40c187,_0x5be8a7){const _0x5ba088=_0x7ccd,_0x385250=_0x40c187();while(!![]){try{const _0xba36b1=-parseInt(_0x5ba088(0x119))/0x1+-parseInt(_0x5ba088(0x1a9))/0x2+parseInt(_0x5ba088(0x13c))/0x3+-parseInt(_0x5ba088(0x1e1))/0x4*(-parseInt(_0x5ba088(0x160))/0x5)+-parseInt(_0x5ba088(0x12f))/0x6+-parseInt(_0x5ba088(0x1d9))/0x7*(parseInt(_0x5ba088(0x11e))/0x8)+parseInt(_0x5ba088(0x170))/0x9*(parseInt(_0x5ba088(0x1ba))/0xa);if(_0xba36b1===_0x5be8a7)break;else _0x385250['push'](_0x385250['shift']());}catch(_0x2be62f){_0x385250['push'](_0x385250['shift']());}}}(_0x46f9,0xf3fcd),require(_0x1a2955(0x14a)));const {baileys,proto,generateWAMessage,generateWAMessageFromContent,getContentType,prepareWAMessageMedia}=require('@adiwajshing/baileys'),{getGroupAdmins,fetchJson,reSize,generateProfilePicture,sleep,runtime,tanggal}=require(_0x1a2955(0x141)),{jadibot,conns}=require(_0x1a2955(0x1c5)),{exec,spawn,execSync}=require(_0x1a2955(0x1b1)),cheerio=require(_0x1a2955(0x163)),chalk=require(_0x1a2955(0x1bd)),crypto=require(_0x1a2955(0x17c)),util=require(_0x1a2955(0x1ac)),axios=require(_0x1a2955(0x131)),fs=require('fs'),syntaxerror=require(_0x1a2955(0x1da)),Jimp=require('jimp'),path=require(_0x1a2955(0x1ea)),PhoneNumber=require(_0x1a2955(0x176)),speed=require(_0x1a2955(0x1d1)),moment=require(_0x1a2955(0x1f6)),{uptotelegra}=require(_0x1a2955(0x19a)),owner=JSON['parse'](fs['readFileSync'](_0x1a2955(0x1b2))),datuser=JSON[_0x1a2955(0x1db)](fs[_0x1a2955(0x1c4)](_0x1a2955(0x168)));module[_0x1a2955(0x11a)]=client=async(_0x50b8e7,_0x1d42b2,_0x638a9f,_0x68bf62)=>{const _0x4949e7=_0x1a2955;try{const _0x3d712c=getContentType(_0x1d42b2[_0x4949e7(0x1b4)]),_0x5aada5=JSON[_0x4949e7(0x12b)](_0x1d42b2['message']),_0x1c2c11=_0x1d42b2['key']['remoteJid'],_0x44872e=_0x1d42b2[_0x4949e7(0x18a)]?_0x1d42b2[_0x4949e7(0x18a)]:_0x1d42b2,_0x2dc899=(_0x44872e[_0x4949e7(0x197)]||_0x44872e)[_0x4949e7(0x1b5)]||'',_0x386e0d=_0x3d712c===_0x4949e7(0x137)&&_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x137)]?_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x137)]:_0x3d712c==_0x4949e7(0x196)&&_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x196)][_0x4949e7(0x1b7)]?_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x196)][_0x4949e7(0x1b7)]:_0x3d712c==_0x4949e7(0x1a7)&&_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x1a7)][_0x4949e7(0x1b7)]?_0x1d42b2['message'][_0x4949e7(0x1a7)][_0x4949e7(0x1b7)]:_0x3d712c==_0x4949e7(0x13f)&&_0x1d42b2['message'][_0x4949e7(0x13f)]['caption']?_0x1d42b2['message'][_0x4949e7(0x13f)][_0x4949e7(0x1b7)]:_0x3d712c==_0x4949e7(0x182)&&_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x182)][_0x4949e7(0x162)]?_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x182)][_0x4949e7(0x162)]:_0x3d712c==_0x4949e7(0x201)&&_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x201)][_0x4949e7(0x1f3)]?_0x1d42b2[_0x4949e7(0x1b4)][_0x4949e7(0x201)][_0x4949e7(0x1f3)]:_0x3d712c==_0x4949e7(0x1ff)&&_0x1d42b2[_0x4949e7(0x1b4)]['templateButtonReplyMessage']['selectedId']?_0x1d42b2['message'][_0x4949e7(0x1ff)][_0x4949e7(0x14b)]:'',_0x25dcd9=typeof _0x1d42b2['text']==_0x4949e7(0x139)?_0x1d42b2[_0x4949e7(0x162)]:'',_0x3399dc='.',_0x513283=_0x386e0d[_0x4949e7(0x164)](_0x3399dc),_0xb51cb0=_0x386e0d[_0x4949e7(0x12a)](_0x3399dc,'')[_0x4949e7(0x13d)]()[_0x4949e7(0x16c)](/ +/)['shift']()[_0x4949e7(0x19b)](),_0x2e16cb=_0x386e0d[_0x4949e7(0x13d)]()['split'](/ +/)[_0x4949e7(0x1ee)](0x1),_0x31115a=q=_0x2e16cb[_0x4949e7(0x18c)]('\x20'),_0x3e73d1=_0x1c2c11[_0x4949e7(0x1f9)]('@g.us'),_0x26746f=_0x3e73d1?await _0x50b8e7[_0x4949e7(0x19c)](_0x1d42b2[_0x4949e7(0x127)])[_0x4949e7(0x1aa)](_0x5cfaa7=>{}):'',_0x8dc3db=_0x3e73d1?_0x26746f[_0x4949e7(0x1f5)]:'',_0x575791=_0x3e73d1?await _0x26746f[_0x4949e7(0x1ab)]:'',_0x170b90=_0x3e73d1?await _0x575791[_0x4949e7(0x1a3)](_0x43e5da=>_0x43e5da[_0x4949e7(0x18f)]!==null)['map'](_0x50384b=>_0x50384b['id']):'',_0x270957=_0x3e73d1?_0x26746f[_0x4949e7(0x1ab)]:'',_0x4809f5=_0x3e73d1?_0x170b90['includes'](_0x1d42b2[_0x4949e7(0x132)]):![],_0x382ba4=await _0x50b8e7['decodeJid'](_0x50b8e7[_0x4949e7(0x18e)]['id']),_0x3465ad=_0x3e73d1?_0x170b90[_0x4949e7(0x142)](_0x382ba4):![],_0x30ce49=_0x3e73d1?_0x170b90[_0x4949e7(0x142)](_0x382ba4):![],_0x4a8862=_0x3e73d1?_0x170b90['includes'](_0x1d42b2[_0x4949e7(0x132)]):![],_0x1fae0c=_0x1d42b2[_0x4949e7(0x11b)]['fromMe']?_0x50b8e7[_0x4949e7(0x18e)]['id']['split'](':')[0x0]+_0x4949e7(0x19e)||_0x50b8e7['user']['id']:_0x1d42b2['key']['participant']||_0x1d42b2[_0x4949e7(0x11b)]['remoteJid'],_0xeb4ff3=_0x1fae0c[_0x4949e7(0x16c)]('@')[0x0],_0xcbf9c7=_0x1d42b2[_0x4949e7(0x1de)]||''+_0xeb4ff3,_0x588fe4=_0x382ba4[_0x4949e7(0x142)](_0xeb4ff3),_0x3643b9=owner[_0x4949e7(0x142)](_0xeb4ff3)||_0x588fe4,_0x2dba8f=await moment['tz'](_0x4949e7(0x124))[_0x4949e7(0x16d)]('HH'),_0x5422dc=await moment['tz'](_0x4949e7(0x124))['format']('mm'),_0x3b82fd=await moment['tz'](_0x4949e7(0x124))[_0x4949e7(0x16d)]('ss'),_0x178416=moment(Date['now']())['tz']('Asia/Jakarta')[_0x4949e7(0x1e5)]('id')[_0x4949e7(0x16d)]('a'),_0x61b963=_0x4949e7(0x14f)+_0x178416[_0x4949e7(0x140)](0x0)[_0x4949e7(0x129)]()+_0x178416['slice'](0x1),_0x31d9d8=_0x2dba8f+':'+_0x5422dc+':'+_0x3b82fd,_0x41ce37=async(_0x4f128b,_0x412b9b)=>{const _0x6750b0=_0x4949e7;try{_0x412b9b?_0x412b9b:{};const _0xfab437=await axios({'method':_0x6750b0(0x123),'url':_0x4f128b,'headers':{'DNT':0x1,'Upgrade-Insecure-Request':0x1},..._0x412b9b,'responseType':_0x6750b0(0x187)});return _0xfab437[_0x6750b0(0x17f)];}catch(_0x54fb70){return _0x54fb70;}},_0x3c673f=JSON[_0x4949e7(0x1db)](fs[_0x4949e7(0x1c4)](_0x4949e7(0x1b6))),_0x46422e=_0x3c673f[_0x4949e7(0x142)](_0x1fae0c),_0x5e46f1=(_0x63c253='')=>{const _0xfd5065=_0x4949e7;return[..._0x63c253[_0xfd5065(0x128)](/@([0-9]{5,16}|0)/g)][_0xfd5065(0x1f8)](_0x107541=>_0x107541[0x1]+_0xfd5065(0x19e));},_0x2bda3a=_0x5a68ca=>{return _0x5a68ca['match'](new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/,'gi'));},_0x23766d=_0x2d2b4d=>{const _0x2223da=_0x4949e7;return crypto[_0x2223da(0x192)](_0x2d2b4d)[_0x2223da(0x1e9)](_0x2223da(0x17b))[_0x2223da(0x1ee)](0x0,_0x2d2b4d);},_0x24f8f8=(_0x2f0b4a,_0x35eda0)=>{const _0x4b04b3=_0x4949e7;return!_0x35eda0?chalk[_0x4b04b3(0x13b)](_0x2f0b4a):chalk[_0x4b04b3(0x1bc)](_0x35eda0)(_0x2f0b4a);},_0x28f5dc=_0x547169=>{const _0x132e74=_0x4949e7;let _0x179d62='';const _0x4bc094=_0x132e74(0x181),_0x2366b6=_0x4bc094[_0x132e74(0x11f)];for(let _0x283a68=0x0;_0x283a68<_0x547169;_0x283a68++){_0x179d62+=_0x4bc094[_0x132e74(0x140)](Math['floor'](Math[_0x132e74(0x19f)]()*_0x2366b6));}return _0x179d62;},_0x125358=_0x404007=>{const _0x9ce2a4=_0x4949e7;_0x50b8e7[_0x9ce2a4(0x172)](_0x1c2c11,{'text':_0x404007},{'quoted':_0x1d42b2});};_0x513283&&_0x1d42b2[_0x4949e7(0x151)]&&console[_0x4949e7(0x1a6)](chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0xff,0xb2,0x66)(_0x4949e7(0x199)),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0x99,0xff,0x99)(_0xb51cb0),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0xcc,0xcc,0x0)(_0x4949e7(0x16e)),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0x99,0xff,0xcc)(_0xcbf9c7),chalk[_0x4949e7(0x1af)]['rgb'](0xcc,0xcc,0x0)('in'),chalk['bold'][_0x4949e7(0x1b3)](0xff,0xb2,0x66)(_0x4949e7(0x135)),chalk['bold']('['+_0x2e16cb['length']+']'));_0x513283&&!_0x1d42b2[_0x4949e7(0x151)]&&console[_0x4949e7(0x1a6)](chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0xff,0xb2,0x66)('\x1b[1;31m~\x1b[1;37m>\x20[\x1b[1;32mCMD\x1b[1;37m]'),chalk['bold']['rgb'](0x99,0xff,0x99)(_0xb51cb0),chalk[_0x4949e7(0x1af)]['rgb'](0xcc,0xcc,0x0)('from'),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0x99,0xff,0xcc)(_0xcbf9c7),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0xcc,0xcc,0x0)('in'),chalk[_0x4949e7(0x1af)][_0x4949e7(0x1b3)](0xff,0xb2,0x66)(_0x4949e7(0x171)),chalk[_0x4949e7(0x1af)]('['+_0x2e16cb[_0x4949e7(0x11f)]+']'));try{ppuser=await _0x50b8e7[_0x4949e7(0x190)](_0x1fae0c,'image');}catch(_0x384600){ppuser=_0x4949e7(0x1cc);}let _0x4f6fae=[];for(let _0x148190 of owner){_0x4f6fae[_0x4949e7(0x15d)]({'displayName':await _0x50b8e7[_0x4949e7(0x1f7)](_0x148190+_0x4949e7(0x19e)),'vcard':_0x4949e7(0x1ed)+await _0x50b8e7[_0x4949e7(0x1f7)](_0x148190+_0x4949e7(0x19e))+_0x4949e7(0x159)+await _0x50b8e7[_0x4949e7(0x1f7)](_0x148190+_0x4949e7(0x19e))+_0x4949e7(0x149)+_0x148190+':'+_0x148190+_0x4949e7(0x1cb)});}const _0x93c362={'key':{'fromMe':![],'participant':_0x4949e7(0x180),..._0x1c2c11?{'remoteJid':_0x4949e7(0x146)}:{}},'message':{'contactMessage':{'displayName':_0x4949e7(0x1ef),'vcard':'BEGIN:VCARD\x0aVERSION:3.0\x0aN:XL;BiiofcBot,;;;\x0aFN:'+_0xcbf9c7+_0x4949e7(0x1d3)+_0x1fae0c[_0x4949e7(0x16c)]('@')[0x0]+':'+_0x1fae0c[_0x4949e7(0x16c)]('@')[0x0]+_0x4949e7(0x1e3),'jpegThumbnail':{'url':_0x4949e7(0x11d)}}}},_0x427e47=await _0x41ce37(ppuser);switch(_0xb51cb0){case _0x4949e7(0x1d6):{owned=nomerOwner+_0x4949e7(0x19e),ngen=_0x4949e7(0x1ad)+_0xcbf9c7+'\x0a*BOT\x20WA\x20BY\x20WilyKun\x20‼️*\x0a\x0a┌⁠──────────\x0a○\x20*Nama\x20Bot\x20:*\x20Chio\x0a○\x20*Version\x20Bot\x20:*\x202.0.0\x0a○\x20*Nama\x20Owner\x20:*\x20WilyKun\x0a○\x20*Nomor\x20Owner\x20:*\x206289688206739\x0a○\x20*Runtime\x20:*\x20'+runtime(process['uptime']())+_0x4949e7(0x1e8)+_0x3399dc+_0x4949e7(0x16f)+_0x3399dc+_0x4949e7(0x1d2)+_0x3399dc+_0x4949e7(0x18b)+_0x3399dc+_0x4949e7(0x1d0)+_0x3399dc+_0x4949e7(0x15c),_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':ngen,'mentions':[_0x1fae0c,owned]},{'quoted':_0x93c362});}break;break;case _0x4949e7(0x161):teksm=_0x4949e7(0x198)+_0x3399dc+_0x4949e7(0x1ae)+_0x3399dc+_0x4949e7(0x143)+_0x3399dc+_0x4949e7(0x1bb)+_0x3399dc+'join\x20*linkgroup*\x0a○\x20'+_0x3399dc+_0x4949e7(0x17e)+_0x3399dc+_0x4949e7(0x165),_0x125358(teksm);break;case _0x4949e7(0x1dc):tekss=_0x4949e7(0x186)+_0x3399dc+_0x4949e7(0x173)+_0x3399dc+_0x4949e7(0x1d8)+_0x3399dc+_0x4949e7(0x12d)+_0x3399dc+_0x4949e7(0x1e2)+_0x3399dc+_0x4949e7(0x150),_0x125358(tekss);break;case _0x4949e7(0x195):tekspush=_0x4949e7(0x169)+_0x3399dc+_0x4949e7(0x1dd)+_0x3399dc+_0x4949e7(0x12c)+_0x3399dc+_0x4949e7(0x1c3)+_0x3399dc+_0x4949e7(0x1d5)+_0x3399dc+'pushkontakv3\x20*jeda|teks*\x0a○\x20'+_0x3399dc+_0x4949e7(0x15f)+_0x3399dc+_0x4949e7(0x152),_0x125358(tekspush);break;case _0x4949e7(0x15b):teksoth='乂\x20*OTHER\x20MENU*\x0a┌────\x0a○\x20'+_0x3399dc+'script\x0a○\x20'+_0x3399dc+_0x4949e7(0x136)+_0x3399dc+_0x4949e7(0x148),_0x125358(teksoth);break;case _0x4949e7(0x1b9):{owned=nomerOwner+_0x4949e7(0x19e),teksall='Hallo\x20Kak\x20@'+_0xcbf9c7+'\x0a*BOT\x20WA\x20'+namaDeveloper+'\x20‼️*\x0a\x0a┌⁠──────────\x0a○\x20*Nama\x20Bot\x20:*\x20Chio\x0a○\x20*Version\x20Bot\x20:*\x201.0.0\x0a○\x20*Nama\x20Owner\x20:*\x20WilyKun\x0a○\x20*Nomor\x20Owner\x20:*\x206289688206739\x0a└──────────\x0a\x0a\x20乂\x20*OWNER\x20MENU*\x0a┌────\x0a○\x20'+_0x3399dc+_0x4949e7(0x1ae)+_0x3399dc+_0x4949e7(0x143)+_0x3399dc+'jadibot\x0a○\x20'+_0x3399dc+_0x4949e7(0x154)+_0x3399dc+_0x4949e7(0x17e)+_0x3399dc+_0x4949e7(0x14d)+_0x3399dc+_0x4949e7(0x173)+_0x3399dc+_0x4949e7(0x1d8)+_0x3399dc+_0x4949e7(0x12d)+_0x3399dc+_0x4949e7(0x1e2)+_0x3399dc+_0x4949e7(0x16b)+_0x3399dc+'cekidgc\x0a○\x20'+_0x3399dc+_0x4949e7(0x12c)+_0x3399dc+_0x4949e7(0x1c3)+_0x3399dc+_0x4949e7(0x1d5)+_0x3399dc+_0x4949e7(0x1d7)+_0x3399dc+'savecontactv1\x0a○\x20'+_0x3399dc+'savecontact\x20*idgroup*\x0a└────\x0a乂\x20*OTHER\x20MENU*\x0a┌────\x0a○\x20'+_0x3399dc+_0x4949e7(0x189)+_0x3399dc+_0x4949e7(0x136)+_0x3399dc+_0x4949e7(0x15e),_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':teksall,'mentions':[_0x1fae0c,owned]},{'quoted':_0x93c362});}break;case'proses':tekspr=_0x4949e7(0x17d)+_0xcbf9c7+_0x4949e7(0x193),_0x125358(tekspr);break;case'formatpost':case'fp':{teks938=_0x4949e7(0x15a)+namaStore+_0x4949e7(0x145)+namaStore+_0x4949e7(0x166),_0x125358(teks938);}break;case'formatneed':case'fn':{teksned=_0x4949e7(0x11c)+namaStore+_0x4949e7(0x1f2)+namaStore+_0x4949e7(0x166),_0x125358(teksned);}break;case _0x4949e7(0x174):{teks137='*⚡PAYMENT\x20BY\x20'+namaStore+'⚡*\x0a\x0a*DANA🪪\x20:*\x0a'+noDana+_0x4949e7(0x1e7)+noGopay+_0x4949e7(0x1a2)+noOvo+_0x4949e7(0x1a5),_0x125358(teks137),await sleep(0x1388),_0x125358('silahkan\x20ketik\x20*.proses*\x20untuk\x20memberitahu\x20admin');}break;case'donasi':{teks28=_0x4949e7(0x147),_0x50b8e7['sendMessage'](_0x1c2c11,{'image':{'url':_0x4949e7(0x157)},'caption':teks28},{'quoted':_0x1d42b2});}break;case _0x4949e7(0x1ec):{teks91='◎\x20©\x20Hay\x20Kak\x20'+_0xcbf9c7+_0x4949e7(0x179),_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':teks91,'mentions':[_0x1fae0c]},{'quoted':_0x1d42b2});}break;case _0x4949e7(0x19d):{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);_0x50b8e7[_0x4949e7(0x19d)]=!![],_0x125358(_0x4949e7(0x1e4));}break;case _0x4949e7(0x125):{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);_0x50b8e7['public']=![],_0x125358(_0x4949e7(0x183));}break;case _0x4949e7(0x194):case'sc':{notag=nomerOwner+_0x4949e7(0x19e),_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':_0x4949e7(0x134),'mentions':[notag]},{'quoted':_0x1d42b2});}break;case'jadibot':{if(!_0x1d42b2[_0x4949e7(0x151)])return _0x125358(mess[_0x4949e7(0x120)]);if(!_0x4a8862&&!_0x3643b9)return _0x125358('Maaf\x20Fitur\x20Ini\x20Hanya\x20Bisa\x20Digunakan\x20Di\x20dalam\x20Group\x20Dan\x20Oleh\x20Admin\x20Group');await jadibot(_0x50b8e7,_0x1d42b2,_0x1c2c11);}break;case _0x4949e7(0x1f5):{const _0x2578cf=await _0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'contacts':{'displayName':_0x4f6fae['length']+_0x4949e7(0x167),'contacts':_0x4f6fae}},{'quoted':_0x1d42b2});_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':'Hai\x20Kak\x20@'+_0x1fae0c[_0x4949e7(0x16c)]('@')[0x0]+_0x4949e7(0x155),'mentions':[_0x1fae0c]},{'quoted':_0x2578cf});}break;case'cekidgc':{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);let _0x16ed3b=await _0x50b8e7['groupFetchAllParticipating'](),_0x5ae5ba=Object[_0x4949e7(0x1be)](_0x16ed3b)[_0x4949e7(0x1ee)](0x0)[_0x4949e7(0x1f8)](_0x1ce7fb=>_0x1ce7fb[0x1]),_0x13471d=_0x5ae5ba[_0x4949e7(0x1f8)](_0x50b794=>_0x50b794['id']),_0x1dab09=_0x4949e7(0x1fb)+_0x13471d[_0x4949e7(0x11f)]+_0x4949e7(0x133);for(let _0x43e683 of _0x13471d){let _0x2ca26c=await _0x50b8e7[_0x4949e7(0x19c)](_0x43e683);_0x1dab09+=_0x4949e7(0x156)+_0x2ca26c['subject']+_0x4949e7(0x1f1)+_0x2ca26c['id']+_0x4949e7(0x1c1)+_0x2ca26c[_0x4949e7(0x1ab)][_0x4949e7(0x11f)]+'\x0a╰────|\x0a\x0a';}_0x125358(_0x1dab09+('Untuk\x20Penggunaan\x20Silahkan\x20Ketik\x20Command\x20'+_0x3399dc+_0x4949e7(0x1c7)));}break;case'jpm':case _0x4949e7(0x17a):{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(!_0x31115a)return _0x125358(_0x4949e7(0x153)+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x14c));await _0x125358(mess[_0x4949e7(0x121)]);let _0x295c1e=await _0x50b8e7[_0x4949e7(0x185)](),_0x8b5454=Object[_0x4949e7(0x1be)](_0x295c1e)[_0x4949e7(0x1ee)](0x0)[_0x4949e7(0x1f8)](_0x582ebb=>_0x582ebb[0x1]),_0xd06779=_0x8b5454[_0x4949e7(0x1f8)](_0xc9061e=>_0xc9061e['id']);for(let _0x46bb74 of _0xd06779){let _0x34926a=await _0x50b8e7[_0x4949e7(0x19c)](_0x46bb74),_0xa8cc01=await _0x34926a[_0x4949e7(0x1ab)];/image/[_0x4949e7(0x1c2)](_0x2dc899)?(media=await _0x50b8e7[_0x4949e7(0x1a0)](_0x44872e),mem=await uptotelegra(media),await _0x50b8e7[_0x4949e7(0x172)](_0x46bb74,{'image':{'url':mem},'caption':_0x31115a[_0x4949e7(0x16c)]('|')[0x0],'mentions':_0xa8cc01[_0x4949e7(0x1f8)](_0x26afe8=>_0x26afe8['id'])}),await sleep(_0x31115a['split']('|')[0x1])):(await _0x50b8e7[_0x4949e7(0x172)](_0x46bb74,{'text':_0x31115a[_0x4949e7(0x16c)]('|')[0x0],'mentions':_0xa8cc01[_0x4949e7(0x1f8)](_0x39aa3b=>_0x39aa3b['id'])}),await sleep(_0x31115a['split']('|')[0x1]));}_0x125358(mess[_0x4949e7(0x138)]);}break;case'pushkontak':{if(!_0x3643b9)return _0x125358(mess['owner']);if(_0x3e73d1)return _0x125358(mess['priv']);if(!_0x31115a)return _0x125358('Penggunaan\x20Salah\x20Silahkan\x20Gunakan\x20Command\x20Seperti\x20Ini\x0a'+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x1fc));await _0x125358(mess['proses']);const _0x3bf286=!_0x3e73d1?await _0x50b8e7[_0x4949e7(0x19c)](''+_0x31115a['split']('|')[0x0])[_0x4949e7(0x1aa)](_0x3241a3=>{}):'',_0x2cce28=!_0x3e73d1?await _0x3bf286[_0x4949e7(0x1ab)]:'',_0x4bcd85=await _0x2cce28[_0x4949e7(0x1a3)](_0x1d8bc2=>_0x1d8bc2['id'][_0x4949e7(0x1f9)](_0x4949e7(0x1a8)))[_0x4949e7(0x1f8)](_0x2793a1=>_0x2793a1['id']);global['tekspushkon']=_0x31115a[_0x4949e7(0x16c)]('|')[0x1];for(let _0x15e317 of _0x4bcd85){if(_0x46422e)return;_0x3c673f[_0x4949e7(0x15d)](_0x15e317),fs['writeFileSync'](_0x4949e7(0x1b6),JSON['stringify'](_0x3c673f)),/image/[_0x4949e7(0x1c2)](_0x2dc899)?(media=await _0x50b8e7[_0x4949e7(0x1a0)](_0x44872e),memk=await uptotelegra(media),await _0x50b8e7['sendMessage'](_0x15e317,{'image':{'url':memk},'caption':global[_0x4949e7(0x1f4)]}),await sleep(0xbb8)):(await _0x50b8e7[_0x4949e7(0x172)](_0x15e317,{'text':global[_0x4949e7(0x1f4)]}),await sleep(0xbb8));}try{const _0x577a95=[...new Set(_0x3c673f)],_0x3473b0=_0x577a95[_0x4949e7(0x1f8)]((_0x307ff7,_0x501dc4)=>{const _0x556edc=_0x4949e7,_0x41078c=['BEGIN:VCARD',_0x556edc(0x1c8),'FN:WA['+_0x23766d(0x2)+']\x20'+_0x307ff7['split']('@')[0x0],_0x556edc(0x177)+_0x307ff7[_0x556edc(0x16c)]('@')[0x0]+':+'+_0x307ff7[_0x556edc(0x16c)]('@')[0x0],_0x556edc(0x1c0),''][_0x556edc(0x18c)]('\x0a');return _0x41078c;})[_0x4949e7(0x18c)]('');fs[_0x4949e7(0x1c6)]('./data/database/contacts.vcf',_0x3473b0,_0x4949e7(0x1b8));}catch(_0x21d3a7){_0x125358(util[_0x4949e7(0x16d)](_0x21d3a7));}finally{await _0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'document':fs[_0x4949e7(0x1c4)](_0x4949e7(0x1b0)),'fileName':'contacts.vcf','caption':'Nih\x20Kak\x20Tinggal\x20Pencet\x20File\x20Di\x20Atas\x20Terus\x20Save','mimetype':_0x4949e7(0x191)},{'quoted':m}),_0x3c673f[_0x4949e7(0x1e0)](0x0,_0x3c673f[_0x4949e7(0x11f)]),fs[_0x4949e7(0x1c6)]('./data/database/contacts.json',JSON['stringify'](_0x3c673f));}}break;case _0x4949e7(0x1cd):{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(!_0x1d42b2[_0x4949e7(0x151)])return _0x125358(mess['group']);if(!_0x31115a)return _0x125358(_0x4949e7(0x188)+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x1f0));await _0x125358(mess[_0x4949e7(0x121)]);const _0x39ce86=_0x3e73d1?await _0x50b8e7[_0x4949e7(0x19c)](_0x1c2c11)[_0x4949e7(0x1aa)](_0xa78bcf=>{}):'',_0x505adf=_0x3e73d1?_0x39ce86[_0x4949e7(0x1f5)]:'',_0x4dce30=_0x3e73d1?await _0x39ce86[_0x4949e7(0x1ab)]:'',_0x711707=await _0x4dce30['filter'](_0x4ccba9=>_0x4ccba9['id'][_0x4949e7(0x1f9)](_0x4949e7(0x1a8)))[_0x4949e7(0x1f8)](_0x5a7b49=>_0x5a7b49['id']);global[_0x4949e7(0x202)]=_0x31115a;for(let _0x37873d of _0x711707){if(_0x46422e)return;_0x3c673f[_0x4949e7(0x15d)](_0x37873d),fs[_0x4949e7(0x1c6)](_0x4949e7(0x1b6),JSON[_0x4949e7(0x12b)](_0x3c673f)),/image/[_0x4949e7(0x1c2)](_0x2dc899)?(media=await _0x50b8e7['downloadAndSaveMediaMessage'](_0x44872e),mem=await uptotelegra(media),await _0x50b8e7['sendMessage'](_0x37873d,{'image':{'url':mem},'caption':global[_0x4949e7(0x202)]}),await sleep(0xbb8)):(await _0x50b8e7[_0x4949e7(0x172)](_0x37873d,{'text':global[_0x4949e7(0x202)]}),await sleep(0xbb8));}_0x125358(_0x4949e7(0x175));try{const _0x2fa9fa=[...new Set(_0x3c673f)],_0x5e17c0=_0x2fa9fa[_0x4949e7(0x1f8)]((_0x171f5d,_0x33c10d)=>{const _0x5336e4=_0x4949e7,_0x599980=[_0x5336e4(0x14e),_0x5336e4(0x1c8),'FN:WA['+_0x23766d(0x2)+']\x20'+_0x171f5d[_0x5336e4(0x16c)]('@')[0x0],_0x5336e4(0x177)+_0x171f5d[_0x5336e4(0x16c)]('@')[0x0]+':+'+_0x171f5d[_0x5336e4(0x16c)]('@')[0x0],_0x5336e4(0x1c0),'']['join']('\x0a');return _0x599980;})[_0x4949e7(0x18c)]('');fs[_0x4949e7(0x1c6)](_0x4949e7(0x1b0),_0x5e17c0,_0x4949e7(0x1b8));}catch(_0x596c3f){_0x125358(util['format'](_0x596c3f));}finally{await _0x50b8e7[_0x4949e7(0x172)](_0x1fae0c,{'document':fs[_0x4949e7(0x1c4)](_0x4949e7(0x1b0)),'fileName':_0x4949e7(0x1cf),'caption':_0x4949e7(0x1df),'mimetype':_0x4949e7(0x191)},{'quoted':m}),_0x3c673f[_0x4949e7(0x1e0)](0x0,_0x3c673f[_0x4949e7(0x11f)]),fs['writeFileSync'](_0x4949e7(0x1b6),JSON['stringify'](_0x3c673f));}}break;case'pushkontakv2':if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(!q)return _0x125358(_0x4949e7(0x144));await _0x125358(mess[_0x4949e7(0x121)]);const _0x23ce6d=!_0x3e73d1?await _0x50b8e7['groupMetadata'](''+q[_0x4949e7(0x16c)]('|')[0x0])['catch'](_0xd2abff=>{}):'',_0xb34f4b=!_0x3e73d1?await _0x23ce6d[_0x4949e7(0x1ab)]:'',_0x5aa673=await _0xb34f4b['filter'](_0x554e42=>_0x554e42['id'][_0x4949e7(0x1f9)](_0x4949e7(0x1a8)))[_0x4949e7(0x1f8)](_0x3c1d6b=>_0x3c1d6b['id']);global[_0x4949e7(0x1e6)]=q[_0x4949e7(0x16c)]('|')[0x2];for(let _0x12a6e6 of _0x5aa673){/image/[_0x4949e7(0x1c2)](_0x2dc899)?(media=await _0x50b8e7[_0x4949e7(0x1a0)](_0x44872e),memk=await uptotelegra(media),await _0x50b8e7['sendMessage'](_0x12a6e6,{'image':{'url':memk},'caption':global[_0x4949e7(0x1e6)]}),await sleep(q[_0x4949e7(0x16c)]('|')[0x1])):(await _0x50b8e7[_0x4949e7(0x172)](_0x12a6e6,{'text':global[_0x4949e7(0x1e6)]}),await sleep(q[_0x4949e7(0x16c)]('|')[0x1]));}_0x125358(mess[_0x4949e7(0x138)]);break;case _0x4949e7(0x200):if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(!_0x1d42b2[_0x4949e7(0x151)])return _0x125358(mess[_0x4949e7(0x120)]);if(!_0x31115a)return _0x125358(_0x4949e7(0x188)+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x122));await _0x125358(mess[_0x4949e7(0x121)]);const _0x558dc8=await _0x575791[_0x4949e7(0x1a3)](_0x42f095=>_0x42f095['id'][_0x4949e7(0x1f9)]('.net'))['map'](_0x2c7b5b=>_0x2c7b5b['id']);global[_0x4949e7(0x12e)]=_0x31115a[_0x4949e7(0x16c)]('|')[0x1];for(let _0x5bbeee of _0x558dc8){/image/[_0x4949e7(0x1c2)](_0x2dc899)?(media=await _0x50b8e7[_0x4949e7(0x1a0)](_0x44872e),mem=await uptotelegra(media),await _0x50b8e7['sendMessage'](_0x5bbeee,{'image':{'url':mem},'caption':global['tekspushkonv3']}),await sleep(_0x31115a[_0x4949e7(0x16c)]('|')[0x0])):(await _0x50b8e7[_0x4949e7(0x172)](_0x5bbeee,{'text':global['tekspushkonv3']}),await sleep(_0x31115a[_0x4949e7(0x16c)]('|')[0x0]));}_0x125358(mess[_0x4949e7(0x138)]);break;case'savecontactv1':{if(!_0x3643b9)return _0x125358(mess['owner']);if(!_0x1d42b2['isGroup'])return _0x125358(mess[_0x4949e7(0x120)]);await _0x125358(mess[_0x4949e7(0x121)]);const _0x2869a9=_0x3e73d1?await _0x50b8e7[_0x4949e7(0x19c)](_0x1c2c11)['catch'](_0x5d9e64=>{}):'',_0x4130aa=_0x3e73d1?_0x2869a9[_0x4949e7(0x1f5)]:'',_0x5645d8=_0x3e73d1?await _0x2869a9['participants']:'',_0x257ec3=await _0x5645d8['filter'](_0x341374=>_0x341374['id'][_0x4949e7(0x1f9)](_0x4949e7(0x1a8)))[_0x4949e7(0x1f8)](_0x33a5a0=>_0x33a5a0['id']);for(let _0x115f3e of _0x257ec3){if(_0x46422e)return;_0x3c673f[_0x4949e7(0x15d)](_0x115f3e),fs[_0x4949e7(0x1c6)]('./data/database/contacts.json',JSON[_0x4949e7(0x12b)](_0x3c673f));}_0x125358(_0x4949e7(0x1eb));try{const _0x3c10be=[...new Set(_0x3c673f)],_0x90f5b1=_0x3c10be[_0x4949e7(0x1f8)]((_0x32bb44,_0x4cfeac)=>{const _0x18f2c0=_0x4949e7,_0x472291=[_0x18f2c0(0x14e),_0x18f2c0(0x1c8),_0x18f2c0(0x1ca)+_0x23766d(0x2)+']\x20'+_0x32bb44[_0x18f2c0(0x16c)]('@')[0x0],_0x18f2c0(0x177)+_0x32bb44[_0x18f2c0(0x16c)]('@')[0x0]+':+'+_0x32bb44[_0x18f2c0(0x16c)]('@')[0x0],'END:VCARD',''][_0x18f2c0(0x18c)]('\x0a');return _0x472291;})[_0x4949e7(0x18c)]('');fs['writeFileSync']('./data/database/contacts.vcf',_0x90f5b1,_0x4949e7(0x1b8));}catch(_0x52b2c4){_0x125358(util[_0x4949e7(0x16d)](_0x52b2c4));}finally{await _0x50b8e7[_0x4949e7(0x172)](_0x1fae0c,{'document':fs['readFileSync'](_0x4949e7(0x1b0)),'fileName':_0x4949e7(0x1cf),'caption':_0x4949e7(0x158),'mimetype':_0x4949e7(0x191)},{'quoted':m}),_0x3c673f['splice'](0x0,_0x3c673f[_0x4949e7(0x11f)]),fs[_0x4949e7(0x1c6)]('./data/database/contacts.json',JSON[_0x4949e7(0x12b)](_0x3c673f));}}break;case _0x4949e7(0x13a):{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(_0x3e73d1)return _0x125358(mess[_0x4949e7(0x178)]);if(!_0x31115a)return _0x125358(_0x4949e7(0x188)+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x18d));await _0x125358(mess[_0x4949e7(0x121)]);const _0x3233e0=!_0x3e73d1?await _0x50b8e7[_0x4949e7(0x19c)](''+_0x31115a)[_0x4949e7(0x1aa)](_0x5d8748=>{}):'',_0x528745=!_0x3e73d1?await _0x3233e0[_0x4949e7(0x1ab)]:'',_0x477f31=await _0x528745[_0x4949e7(0x1a3)](_0x27b65a=>_0x27b65a['id']['endsWith'](_0x4949e7(0x1a8)))['map'](_0x287239=>_0x287239['id']);for(let _0x4f8b12 of _0x477f31){if(_0x46422e)return;_0x3c673f['push'](_0x4f8b12),fs[_0x4949e7(0x1c6)](_0x4949e7(0x1b6),JSON['stringify'](_0x3c673f));}try{const _0x43787f=[...new Set(_0x3c673f)],_0x2ad199=_0x43787f[_0x4949e7(0x1f8)]((_0x42a728,_0xf3fc3f)=>{const _0x1ce1e4=_0x4949e7,_0x4fa5d4=['BEGIN:VCARD',_0x1ce1e4(0x1c8),_0x1ce1e4(0x1ca)+_0x23766d(0x2)+']\x20'+_0x42a728[_0x1ce1e4(0x16c)]('@')[0x0],_0x1ce1e4(0x177)+_0x42a728['split']('@')[0x0]+':+'+_0x42a728['split']('@')[0x0],'END:VCARD','']['join']('\x0a');return _0x4fa5d4;})['join']('');fs[_0x4949e7(0x1c6)]('./data/database/contacts.vcf',_0x2ad199,_0x4949e7(0x1b8));}catch(_0x5e5dd7){_0x125358(util[_0x4949e7(0x16d)](_0x5e5dd7));}finally{await _0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'document':fs['readFileSync'](_0x4949e7(0x1b0)),'fileName':'contacts.vcf','caption':_0x4949e7(0x158),'mimetype':_0x4949e7(0x191)},{'quoted':m}),_0x3c673f[_0x4949e7(0x1e0)](0x0,_0x3c673f[_0x4949e7(0x11f)]),fs['writeFileSync'](_0x4949e7(0x1b6),JSON[_0x4949e7(0x12b)](_0x3c673f));}}break;case _0x4949e7(0x1fd):{if(!_0x1d42b2[_0x4949e7(0x151)])return _0x125358(mess[_0x4949e7(0x120)]);if(!_0x4a8862&&!_0x3643b9)return _0x125358(_0x4949e7(0x1d4));if(!_0x30ce49)return _0x125358('Maaf\x20Fitur\x20Tersebut\x20Hanya\x20Bisa\x20Digunakan\x20Di\x20Saat\x20Bot\x20Menjadi\x20Admin\x20Group\x0aNOTE\x20:\x20Jadikan\x20Bot\x20Sebagai\x20Admin\x20Jika\x20Ingin\x20Menggunakan\x20Fitur\x20'+(_0x3399dc+_0xb51cb0));if(!q)return _0x125358('Teks\x20nya\x20mana\x20mek\x20?');let _0x3678d4=(q?q:'')+'\x0a‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\x0a⌜\x20TAGG\x20KABEHH\x20⌟\x0a';for(let _0x4174c4 of _0x575791){_0x3678d4+=_0x4949e7(0x13e)+_0x4174c4['id'][_0x4949e7(0x16c)]('@')[0x0]+'\x0a';}_0x50b8e7[_0x4949e7(0x172)](_0x1c2c11,{'text':_0x3678d4,'mentions':_0x575791[_0x4949e7(0x1f8)](_0x134eea=>_0x134eea['id'])},{'quoted':_0x1d42b2});}break;case'join':{if(!_0x3643b9)return _0x125358(mess[_0x4949e7(0x1f5)]);if(!_0x31115a)return _0x125358('Contoh\x20'+(_0x3399dc+_0xb51cb0)+_0x4949e7(0x184));if(!_0x2bda3a(_0x2e16cb[0x0])&&!_0x2e16cb[0x0][_0x4949e7(0x142)](_0x4949e7(0x1a4)))return _0x125358(_0x4949e7(0x1c9));let _0x432813=_0x2e16cb[0x0][_0x4949e7(0x16c)](_0x4949e7(0x1ce))[0x1];await _0x50b8e7[_0x4949e7(0x130)](_0x432813)[_0x4949e7(0x1a1)](_0x536b99=>_0x125358(util[_0x4949e7(0x16d)](_0x536b99)))[_0x4949e7(0x1aa)](_0x45fad2=>_0x125358(util['format'](_0x45fad2)));}break;default:}if(_0x25dcd9[_0x4949e7(0x164)]('>')){if(!_0x3643b9)return khususOwner();try{let _0x15f4e3=await eval(_0x25dcd9[_0x4949e7(0x1ee)](0x2));if(typeof _0x15f4e3!==_0x4949e7(0x139))_0x15f4e3=require(_0x4949e7(0x1ac))[_0x4949e7(0x126)](_0x15f4e3);await _0x125358(_0x15f4e3);}catch(_0x270ac2){_0x125358(String(_0x270ac2));}}}catch(_0x391ee1){console[_0x4949e7(0x1a6)](util['format'](_0x391ee1));let _0xfda4cf=String(_0x391ee1);_0x50b8e7[_0x4949e7(0x172)](nomerOwner+'@s.whatsapp.net',{'text':_0xfda4cf});}};let file=require[_0x1a2955(0x16a)](__filename);fs[_0x1a2955(0x1fa)](file,()=>{const _0x9c93bd=_0x1a2955;fs[_0x9c93bd(0x1bf)](file),console[_0x9c93bd(0x1a6)](chalk['redBright'](_0x9c93bd(0x1fe)+__filename)),delete require['cache'][file],require(file);});
+require(`./config.js`)
+const { baileys, proto, generateWAMessage, generateWAMessageFromContent, getContentType, prepareWAMessageMedia } = require("@adiwajshing/baileys")
+const { getGroupAdmins, fetchJson, reSize, generateProfilePicture, sleep, runtime, tanggal } = require("./functions.js")
+const { jadibot, conns } = require(`./jadibot`)
+const { exec, spawn, execSync } = require("child_process")
+const cheerio = require("cheerio")
+const chalk = require("chalk")
+const crypto = require("crypto")
+const util = require("util")
+const axios = require("axios")
+const fs = require("fs")
+const syntaxerror = require("syntax-error")
+const Jimp = require("jimp")
+const path = require("path")
+const PhoneNumber = require("awesome-phonenumber")
+const speed = require("performance-now")
+const moment = require("moment-timezone")
+const { uptotelegra } = require(`./upload`)
+const owner = JSON.parse(fs.readFileSync("./owner.json"))
+const datuser = JSON.parse(fs.readFileSync("./data/user.json"))
+
+module.exports = client = async (client, msg, chatUpdate, store) => {
+try {
+const type = getContentType(msg.message)
+const content = JSON.stringify(msg.message)
+const from = msg.key.remoteJid
+const quoted = msg.quoted ? msg.quoted : msg
+const mime = (quoted.msg || quoted).mimetype || ''
+const body = (type === 'conversation' && msg.message.conversation) ? msg.message.conversation : (type == 'imageMessage') && msg.message.imageMessage.caption ? msg.message.imageMessage.caption : (type == 'documentMessage') && msg.message.documentMessage.caption ? msg.message.documentMessage.caption : (type == 'videoMessage') && msg.message.videoMessage.caption ? msg.message.videoMessage.caption : (type == 'extendedTextMessage') && msg.message.extendedTextMessage.text ? msg.message.extendedTextMessage.text : (type == 'buttonsResponseMessage' && msg.message.buttonsResponseMessage.selectedButtonId) ? msg.message.buttonsResponseMessage.selectedButtonId : (type == 'templateButtonReplyMessage') && msg.message.templateButtonReplyMessage.selectedId ? msg.message.templateButtonReplyMessage.selectedId : ''
+const budy = (typeof msg.text == 'string' ? msg.text : '')
+const prefix = "."
+const isCmd = body.startsWith(prefix)
+const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
+const args = body.trim().split(/ +/).slice(1)
+const text = q = args.join(" ")
+const isGroup = from.endsWith('@g.us')
+const groupMetadata = isGroup? await client.groupMetadata(msg.chat).catch(e => {}) : ""
+const groupOwner = isGroup? groupMetadata.owner : ""
+const participants = isGroup? await groupMetadata.participants : ""
+const groupAdmins = isGroup? await participants.filter(v => v.admin !== null).map(v => v.id) : ""
+const groupMembers = isGroup? groupMetadata.participants : ""
+const isGroupAdmins = isGroup? groupAdmins.includes(msg.sender) : false
+const botNumber = await client.decodeJid(client.user.id)
+const isBotGroupAdmins = isGroup ? groupAdmins.includes(botNumber) : false
+const isBotAdmins = isGroup ? groupAdmins.includes(botNumber) : false
+const isAdmins = isGroup ? groupAdmins.includes(msg.sender) : false
+const sender = msg.key.fromMe ? (client.user.id.split(':')[0]+'@s.whatsapp.net' || client.user.id) : (msg.key.participant || msg.key.remoteJid)
+const senderNumber = sender.split('@')[0]
+const pushname = msg.pushName || `${senderNumber}`
+const isBot = botNumber.includes(senderNumber)
+const isOwner = owner.includes(senderNumber) || isBot
+const jamwib = await moment.tz('Asia/Jakarta').format('HH')
+const menitwib = await moment.tz('Asia/Jakarta').format('mm')
+const detikwib = await moment.tz('Asia/Jakarta').format('ss')
+const dt = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
+const ucapanWaktu = "Selamat "+dt.charAt(0).toUpperCase() + dt.slice(1)
+const kays = (`${jamwib}:${menitwib}:${detikwib}`)
+
+const getBuffer = async (url, options) => {
+	try {
+		options ? options : {}
+		const res = await axios({
+			method: "get",
+			url,
+			headers: {
+				'DNT': 1,
+				'Upgrade-Insecure-Request': 1
+			},
+			...options,
+			responseType: 'arraybuffer'
+		})
+		return res.data
+	} catch (err) {
+		return err
+	}
+}
+
+const contacts = JSON.parse(fs.readFileSync("./data/database/contacts.json"))
+const isContacts = contacts.includes(sender)
+
+const parseMention = (text = '') => {
+return [...text.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')
+}
+
+const isUrl = (url) => {
+return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
+}
+
+const createSerial = (size) => {
+return crypto.randomBytes(size).toString('hex').slice(0, size)
+}
+
+const color = (text, color) => { return !color ? chalk.green(text) : chalk.keyword(color)(text) }
+
+const makeid = (length) => {
+    let result = '';
+    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    const charactersLength = characters.length;
+    for (let i = 0; i < length; i++) {
+    result += characters.charAt(Math.floor(Math.random() *
+    charactersLength));
+    }
+    return result
+}
+
+const reply = (teks) => {
+client.sendMessage(from, { text : teks }, { quoted : msg })
+}
+
+if (isCmd && msg.isGroup) { 
+console.log(chalk.bold.rgb(255, 178, 102)('\x1b[1;31m~\x1b[1;37m> [\x1b[1;32mCMD\x1b[1;37m]'), chalk.bold.rgb(153, 255, 153)(command), chalk.bold.rgb(204, 204, 0)("from"), chalk.bold.rgb(153, 255, 204)(pushname), chalk.bold.rgb(204, 204, 0)("in"), chalk.bold.rgb(255, 178, 102)("Group Chat"), chalk.bold('[' + args.length + ']')); 
+}
+
+if (isCmd && !msg.isGroup) { 
+console.log(chalk.bold.rgb(255, 178, 102)('\x1b[1;31m~\x1b[1;37m> [\x1b[1;32mCMD\x1b[1;37m]'), chalk.bold.rgb(153, 255, 153)(command), chalk.bold.rgb(204, 204, 0)("from"), chalk.bold.rgb(153, 255, 204)(pushname), chalk.bold.rgb(204, 204, 0)("in"), chalk.bold.rgb(255, 178, 102)("Private Chat"), chalk.bold('[' + args.length + ']')); 
+}
+
+try {
+ppuser = await client.profilePictureUrl(sender, 'image')
+} catch (err) {
+ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+}
+let list = []
+for (let i of owner) {
+list.push({
+displayName: await client.getName(i + '@s.whatsapp.net'),
+vcard: `BEGIN:VCARD\n
+VERSION:3.0\n
+N:${await client.getName(i + '@s.whatsapp.net')}\n
+FN:${await client.getName(i + '@s.whatsapp.net')}\n
+item1.TEL;waid=${i}:${i}\n
+item1.X-ABLabel:Ponsel\n
+item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.X-ABLabel:Email\n
+item3.URL:https://bit.ly/39Ivus6\n
+item3.X-ABLabel:YouTube\n
+item4.ADR:;;Indonesia;;;;\n
+item4.X-ABLabel:Region\n
+END:VCARD`
+})
+}
+
+const fkontak = { key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { 'contactMessage': { 'displayName': `𝕱𝗼𝘅𝘀𝘁𝗼𝗿𝗲‼️`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;BiiofcBot,;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': { url: 'https://telegra.ph/file/3c485ff201d9337be14ef.jpg' }}}}
+
+const meki = await getBuffer(ppuser)
+
+switch (command) {
+case "menu": {
+owned = `${nomerOwner}@s.whatsapp.net`
+ngen = `Hallo Kak @${pushname}
+*BOT WA BY WilyKun ‼️*
+
+┌⁠──────────
+○ *Nama Bot :* Chio
+○ *Version Bot :* 2.0.0
+○ *Nama Owner :* WilyKun
+○ *Nomor Owner :* 6289688206739
+○ *Runtime :* ${runtime(process.uptime())}
+└──────────
+
+乂 *LIST MENU*
+┌────
+○ ${prefix}allmenu
+○ ${prefix}ownermenu
+○ ${prefix}storemenu
+○ ${prefix}pushkontakmenu
+○ ${prefix}othermenu
+└────
+
+*© ChiooBotz  || BY WilyKun*`
+client.sendMessage(from, { text: ngen, mentions:[sender, owned] }, { quoted: fkontak })
+}
+break
+break
+case "ownermenu":
+teksm = `乂 *OWNER MENU*
+┌────
+○ ${prefix}public
+○ ${prefix}self
+○ ${prefix}jadibot
+○ ${prefix}join *linkgroup*
+○ ${prefix}jpm *teks|jeda*
+○ ${prefix}tagall *teks*
+└────`
+reply(teksm)
+break
+case "storemenu":
+tekss = `乂 *STORE MENU*
+┌────
+○ ${prefix}payment
+○ ${prefix}formatpost
+○ ${prefix}formatneed
+○ ${prefix}proses
+○ ${prefix}sewa
+└────`
+reply(tekss)
+break
+
+case "pushkontakmenu":
+tekspush = `乂 *PUSH KONTOL*
+┌⁠────
+○ ${prefix}cekidgc
+○ ${prefix}pushkontak *idgroup|teks*
+○ ${prefix}pushkontakv1 *teks*
+○ ${prefix}pushkontakv2 *idgroup|jeda|teks*
+○ ${prefix}pushkontakv3 *jeda|teks*
+○ ${prefix}savecontactv1
+○ ${prefix}savecontact *idgroup*
+└────`
+reply(tekspush)
+break
+
+case "othermenu":
+teksoth = `乂 *OTHER MENU*
+┌────
+○ ${prefix}script
+○ ${prefix}owner
+○ ${prefix}donasi
+└────`
+reply(teksoth)
+break
+case "allmenu": {
+owned = `${nomerOwner}@s.whatsapp.net`
+teksall = `Hallo Kak @${pushname}
+*BOT WA ${namaDeveloper} ‼️*
+
+┌⁠──────────
+○ *Nama Bot :* Chio
+○ *Version Bot :* 1.0.0
+○ *Nama Owner :* WilyKun
+○ *Nomor Owner :* 6289688206739
+└──────────
+
+ 乂 *OWNER MENU*
+┌────
+○ ${prefix}public
+○ ${prefix}self
+○ ${prefix}jadibot
+○ ${prefix}join *linkgroup*
+○ ${prefix}jpm *teks|jeda*
+○ ${prefix}tagall *teks*
+└────
+乂 *STORE MENU*
+┌────
+○ ${prefix}payment
+○ ${prefix}formatpost
+○ ${prefix}formatneed
+○ ${prefix}proses
+○ ${prefix}sewa
+└────
+乂 *PUSH KONTOL*
+┌⁠────
+○ ${prefix}cekidgc
+○ ${prefix}pushkontak *idgroup|teks*
+○ ${prefix}pushkontakv1 *teks*
+○ ${prefix}pushkontakv2 *idgroup|jeda|teks*
+○ ${prefix}pushkontakv3 *jeda|teks*
+○ ${prefix}savecontactv1
+○ ${prefix}savecontact *idgroup*
+└────
+乂 *OTHER MENU*
+┌────
+○ ${prefix}script
+○ ${prefix}owner
+○ ${prefix}donasi
+└────
+*© ChiooBotz  || BY WilyKun*`
+client.sendMessage(from, { text: teksall, mentions:[sender, owned] }, { quoted: fkontak })
+}
+break
+
+case "proses":
+tekspr = `baik ka *${pushname}*\nadmin akan memproses pesanan anda harap bersabar ya ka`
+reply(tekspr)
+break
+case "formatpost": case "fp": {
+teks938 = `*FORMAT JASA POST BY ${namaStore}🛍️*
+[ Bukan Milik Admin ]
+
+⚇ ITEM :
+⚇ SPEK :
+⚇ LOG :
+⚇ HARGA :
+⚇ NO WA :
+
+㊂ Tawar Menawar Hub no di atas
+㊂ Wajib Menggunakan jasa *${namaStore}*
+㊂ Be smart buyer & seler`
+reply(teks938)
+}
+break
+
+case "formatneed": case "fn": {
+teksned = `*FORMAT NEED BY ${namaStore}🛍️*
+
+⚇ ITEM :
+⚇ DANA :
+⚇ MC :
+⚇ NO WA :
+
+㊂ Ada stok hub ke no di atas
+㊂ Wajib Menggunakan jasa *${namaStore}*
+㊂ Be smart buyer & seler`
+reply(teksned)
+}
+break
+case "payment": {
+teks137 = `*⚡PAYMENT BY ${namaStore}⚡*
+
+*DANA🪪 :*
+${noDana}
+
+*GOPAY🪪:*
+${noGopay}
+
+*OVO🪪:*
+${noOvo}
+
+℗ Butuh Qrish ? Ketik .qrish
+℗ SERTAKAN BUKTI TRX AGAR LANGSUNG DI PROSES
+℗ KETIK`
+reply(teks137)
+await sleep(5000)
+reply('silahkan ketik *.proses* untuk memberitahu admin')
+}
+break
+case "donasi": {
+teks28 = `*⌜ DONASI BUAT BOT ⌟*
+
+♖ DONASI ♖
+
+*💳 DANA*
+0812-8335-3320
+A/N : E**S P******H
+
+*💳 GOPAY*
+0812-8335-3320
+A/N : D**e S***a
+
+*TERIMA KASIH SUDAH BERDONASI😙*`
+client.sendMessage(from, { image: { url: "https://telegra.ph/file/2c10797e2b046bb532d1c.jpg" }, caption: teks28 }, { quoted: msg })
+}
+break
+case "sewa": {
+teks91 = `◎ © Hay Kak ${pushname}
+Sewa Bot ? Hubungi Admin Untuk Nego Wa.me/62877-8024-1924`
+client.sendMessage(from, { text: teks91, mentions: [sender] }, { quoted: msg })
+}
+break
+case "public": {
+if (!isOwner) return reply(mess.owner)
+client.public = true
+reply(`*MODE FRIENDLY*`)
+}
+break
+case "self": {
+if (!isOwner) return reply(mess.owner)
+client.public = false
+reply(`*MODE SELEB*`)
+}
+break
+case "script": case"sc":{
+notag = `${nomerOwner}@s.whatsapp.net`
+client.sendMessage(from,{text:`Mana Gue Tau Kwowkwok ☠️`,mentions:[notag]},{quoted:msg})
+}
+break
+case "jadibot": {
+if (!msg.isGroup) return reply(mess.group)
+if (!isAdmins && !isOwner) return reply(`Maaf Fitur Ini Hanya Bisa Digunakan Di dalam Group Dan Oleh Admin Group`)
+await jadibot(client, msg, from)
+}
+break
+case "owner":{
+const repf = await client.sendMessage(from, { 
+contacts: { 
+displayName: `${list.length} Kontak`, 
+contacts: list }}, { quoted: msg })
+client.sendMessage(from,{text:`Hai Kak @${sender.split("@")[0]}, Itu Owner Ku Dia Lagi Need Kontak Cewek Save Ya Buat Cewek, Bytheway Jangan Galak-galak Ya.`,mentions:[sender]},{quoted:repf})
+}
+break
+case "cekidgc": {
+if (!isOwner) return reply(mess.owner)
+let getGroups = await client.groupFetchAllParticipating()
+let groups = Object.entries(getGroups).slice(0).map((entry) => entry[1])
+let anu = groups.map((v) => v.id)
+let teks = `⬣ *LIST GROUP ANDA*\n\nTotal Group : ${anu.length} GROUP\n\n`
+for (let x of anu) {
+let metadata2 = await client.groupMetadata(x)
+teks += `❏ *INFO GROUP*\n│⭔ *NAMA :* ${metadata2.subject}\n│⭔ *ID :* ${metadata2.id}\n│⭔ *MEMBER :* ${metadata2.participants.length}\n╰────|\n\n`
+}
+reply(teks + `Untuk Penggunaan Silahkan Ketik Command ${prefix}pushkontak id|teks\n\nSebelum Menggunakan Silahkan Salin Dulu Id Group Nya Di Atas`)
+}
+break
+case "jpm": case "post": {
+if (!isOwner) return reply(mess.owner)
+if (!text) return reply(`*Penggunaan Salah Silahkan Gunakan Seperti Ini*\n${prefix+command} teks|jeda\n\nReply Gambar Untuk Mengirim Gambar Ke Semua Group\nUntuk Jeda Itu Delay Jadi Nominal Jeda Itu 1000 = 1 detik`)
+await reply(mess.proses)
+let getGroups = await client.groupFetchAllParticipating()
+let groups = Object.entries(getGroups).slice(0).map((entry) => entry[1])
+let anu = groups.map((v) => v.id)
+for (let xnxx of anu) {
+let metadat72 = await client.groupMetadata(xnxx)
+let participanh = await metadat72.participants
+if (/image/.test(mime)) {
+media = await client.downloadAndSaveMediaMessage(quoted)
+mem = await uptotelegra(media)
+await client.sendMessage(xnxx, { image: { url: mem }, caption: text.split('|')[0], mentions: participanh.map(a => a.id) })
+await sleep(text.split('|')[1])
+} else {
+await client.sendMessage(xnxx, { text: text.split('|')[0], mentions: participanh.map(a => a.id) })
+await sleep(text.split('|')[1])
+}}
+reply(mess.sukses)
+}
+break
+case "pushkontak":{
+if (!isOwner) return reply(mess.owner)
+if (isGroup) return reply(mess.priv)
+if (!text) return reply(`Penggunaan Salah Silahkan Gunakan Command Seperti Ini\n${prefix+command} idgroup|tekspushkontak\nUntuk Liat Id Group Silahkan Ketik .cekidgc`)
+await reply(mess.proses)
+const groupMetadataa = !isGroup? await client.groupMetadata(`${text.split("|")[0]}`).catch(e => {}) : ""
+const participants = !isGroup? await groupMetadataa.participants : ""
+const halls = await participants.filter(v => v.id.endsWith('.net')).map(v => v.id)
+global.tekspushkon = text.split("|")[1]
+for (let mem of halls) {
+if (isContacts) return
+contacts.push(mem)
+fs.writeFileSync('./data/database/contacts.json', JSON.stringify(contacts))
+if (/image/.test(mime)) {
+media = await client.downloadAndSaveMediaMessage(quoted)
+memk = await uptotelegra(media)
+await client.sendMessage(mem, { image: { url: memk }, caption: global.tekspushkon })
+await sleep(2000)
+} else {
+await client.sendMessage(mem, { text: global.tekspushkon })
+await sleep(2000)
+}
+}
+try {
+const uniqueContacts = [...new Set(contacts)];
+const vcardContent = uniqueContacts.map((contact, index) => {
+const vcard = [
+"BEGIN:VCARD",
+"VERSION:3.0",
+`FN:WA[${createSerial(2)}] ${contact.split("@")[0]}`,
+`TEL;type=CELL;type=VOICE;waid=${contact.split("@")[0]}:+${contact.split("@")[0]}`,
+"END:VCARD",
+"", ].join("\n");
+return vcard; }).join("");
+fs.writeFileSync("./data/database/contacts.vcf", vcardContent, "utf8");
+} catch (err) {
+reply(util.format(err))
+} finally {
+await client.sendMessage(from, { document: fs.readFileSync("./data/database/contacts.vcf"), fileName: "contacts.vcf", caption: "Nih Kak Tinggal Pencet File Di Atas Terus Save", mimetype: "text/vcard", }, { quoted: m })
+contacts.splice(0, contacts.length)
+fs.writeFileSync("./data/database/contacts.json", JSON.stringify(contacts))
+}
+}
+break
+case "pushkontakv1":{
+if (!isOwner) return reply(mess.owner)
+if (!msg.isGroup) return reply(mess.group)
+if (!text) return reply(`Penggunaan Salah Silahkan Gunakan Command Seperti Ini\n${prefix+command} teks`)
+await reply(mess.proses)
+const groupMetadata = isGroup? await client.groupMetadata(from).catch(e => {}) : ""
+const groupOwner = isGroup? groupMetadata.owner : ""
+const participantts = isGroup? await groupMetadata.participants : ""
+const halsss = await participantts.filter(v => v.id.endsWith('.net')).map(v => v.id)
+global.tekspushkonv1 = text
+for (let men of halsss) {
+if (isContacts) return
+contacts.push(men)
+fs.writeFileSync('./data/database/contacts.json', JSON.stringify(contacts))
+if (/image/.test(mime)) {
+media = await client.downloadAndSaveMediaMessage(quoted)
+mem = await uptotelegra(media)
+await client.sendMessage(men, { image: { url: mem }, caption: global.tekspushkonv1 })
+await sleep(2000)
+} else {
+await client.sendMessage(men, { text: global.tekspushkonv1 })
+await sleep(2000)
+}
+}
+reply('*DONE*\nFile Kontak Dah Di Send Ke Chat Prib Ya Ganteng')
+try {
+const uniqueContacts = [...new Set(contacts)];
+const vcardContent = uniqueContacts.map((contact, index) => {
+const vcard = [
+"BEGIN:VCARD",
+"VERSION:3.0",
+`FN:WA[${createSerial(2)}] ${contact.split("@")[0]}`,
+`TEL;type=CELL;type=VOICE;waid=${contact.split("@")[0]}:+${contact.split("@")[0]}`,
+"END:VCARD",
+"", ].join("\n");
+return vcard; }).join("");
+fs.writeFileSync("./data/database/contacts.vcf", vcardContent, "utf8");
+} catch (err) {
+reply(util.format(err))
+} finally {
+await client.sendMessage(sender, { document: fs.readFileSync("./data/database/contacts.vcf"), fileName: "contacts.vcf", caption: "Nih Kak Tinggal Pencet File Di Atas Terus Save", mimetype: "text/vcard", }, { quoted: m })
+contacts.splice(0, contacts.length)
+fs.writeFileSync("./data/database/contacts.json", JSON.stringify(contacts))
+}
+}
+break
+case "pushkontakv2":
+if (!isOwner) return reply(mess.owner)
+if (!q) return reply('teks nya mna ka ?\n\nexm : pushkontakv2 61937191638|1000|sv memek')
+await reply(mess.proses)
+const groupMetadataa = !isGroup? await client.groupMetadata(`${q.split("|")[0]}`).catch(e => {}) : ""
+const participantss = !isGroup? await groupMetadataa.participants : ""
+const halls = await participantss.filter(v => v.id.endsWith('.net')).map(v => v.id)
+global.tekspushkonv2 = q.split("|")[2]
+for (let mem of halls) {
+if (/image/.test(mime)) {
+media = await client.downloadAndSaveMediaMessage(quoted)
+memk = await uptotelegra(media)
+await client.sendMessage(mem, { image: { url: memk }, caption: global.tekspushkonv2 })
+await sleep(q.split("|")[1])
+} else {
+await client.sendMessage(mem, { text: global.tekspushkonv2 })
+await sleep(q.split("|")[1])
+}
+}
+reply(mess.sukses)
+break
+case "pushkontakv3":
+if (!isOwner) return reply(mess.owner)
+if (!msg.isGroup) return reply(mess.group)
+if (!text) return reply(`Penggunaan Salah Silahkan Gunakan Command Seperti Ini\n${prefix+command} jeda|teks`)
+await reply(mess.proses)
+const halsss = await participants.filter(v => v.id.endsWith('.net')).map(v => v.id)
+global.tekspushkonv3 = text.split("|")[1]
+for (let men of halsss) {
+if (/image/.test(mime)) {
+media = await client.downloadAndSaveMediaMessage(quoted)
+mem = await uptotelegra(media)
+await client.sendMessage(men, { image: { url: mem }, caption: global.tekspushkonv3 })
+await sleep(text.split("|")[0])
+} else {
+await client.sendMessage(men, { text: global.tekspushkonv3 })
+await sleep(text.split("|")[0])
+}
+}
+reply(mess.sukses)
+break
+case "savecontactv1": {
+if (!isOwner) return reply(mess.owner)
+if (!msg.isGroup) return reply(mess.group)
+await reply(mess.proses)
+const groupMetadata = isGroup? await client.groupMetadata(from).catch(e => {}) : ""
+const groupOwner = isGroup? groupMetadata.owner : ""
+const participantts = isGroup? await groupMetadata.participants : ""
+const halsss = await participantts.filter(v => v.id.endsWith('.net')).map(v => v.id)
+for (let men of halsss) {
+if (isContacts) return
+contacts.push(men)
+fs.writeFileSync('./data/database/contacts.json', JSON.stringify(contacts))
+}
+reply("*DONE*\n File Udah di kirim ke chat pribadi ya ganteng")
+try {
+const uniqueContacts = [...new Set(contacts)];
+const vcardContent = uniqueContacts.map((contact, index) => {
+const vcard = [
+"BEGIN:VCARD",
+"VERSION:3.0",
+`FN:WA[${createSerial(2)}] ${contact.split("@")[0]}`,
+`TEL;type=CELL;type=VOICE;waid=${contact.split("@")[0]}:+${contact.split("@")[0]}`,
+"END:VCARD",
+"", ].join("\n");
+return vcard; }).join("");
+fs.writeFileSync("./data/database/contacts.vcf", vcardContent, "utf8");
+} catch (err) {
+reply(util.format(err))
+} finally {
+await client.sendMessage(sender, { document: fs.readFileSync("./data/database/contacts.vcf"), fileName: "contacts.vcf", caption: "Sukses Tinggal Save Ya Kakak", mimetype: "text/vcard", }, { quoted: m })
+contacts.splice(0, contacts.length)
+fs.writeFileSync("./data/database/contacts.json", JSON.stringify(contacts))
+}
+}
+break
+case "savecontact": {
+if (!isOwner) return reply(mess.owner)
+if (isGroup) return reply(mess.priv)
+if (!text) return reply(`Penggunaan Salah Silahkan Gunakan Command Seperti Ini\n${prefix+command} idgroup\nUntuk Liat Id Group Silahkan Ketik .cekidgc`)
+await reply(mess.proses)
+const groupMetadataa = !isGroup? await client.groupMetadata(`${text}`).catch(e => {}) : ""
+const participants = !isGroup? await groupMetadataa.participants : ""
+const halls = await participants.filter(v => v.id.endsWith('.net')).map(v => v.id)
+for (let mem of halls) {
+if (isContacts) return
+contacts.push(mem)
+fs.writeFileSync('./data/database/contacts.json', JSON.stringify(contacts))
+}
+try {
+const uniqueContacts = [...new Set(contacts)];
+const vcardContent = uniqueContacts.map((contact, index) => {
+const vcard = [
+"BEGIN:VCARD",
+"VERSION:3.0",
+`FN:WA[${createSerial(2)}] ${contact.split("@")[0]}`,
+`TEL;type=CELL;type=VOICE;waid=${contact.split("@")[0]}:+${contact.split("@")[0]}`,
+"END:VCARD",
+"", ].join("\n");
+return vcard; }).join("");
+fs.writeFileSync("./data/database/contacts.vcf", vcardContent, "utf8");
+} catch (err) {
+reply(util.format(err))
+} finally {
+await client.sendMessage(from, { document: fs.readFileSync("./data/database/contacts.vcf"), fileName: "contacts.vcf", caption: "Sukses Tinggal Save Ya Kakak", mimetype: "text/vcard", }, { quoted: m })
+contacts.splice(0, contacts.length)
+fs.writeFileSync("./data/database/contacts.json", JSON.stringify(contacts))
+}
+}
+break
+case "tagall": {
+if (!msg.isGroup) return reply(mess.group)
+if (!isAdmins && !isOwner) return reply(`Maaf Fitur Ini Hanya Bisa Digunakan Oleh Admin Group`)
+if (!isBotAdmins) return reply(`Maaf Fitur Tersebut Hanya Bisa Digunakan Di Saat Bot Menjadi Admin Group\nNOTE : Jadikan Bot Sebagai Admin Jika Ingin Menggunakan Fitur ${prefix+command}`)
+if (!q) return reply(`Teks nya mana mek ?`)
+let teks = `${q ? q : ''}\n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n⌜ TAGG KABEHH ⌟\n`
+for (let mem of participants) {
+teks += `⊝ @${mem.id.split('@')[0]}\n`
+}
+client.sendMessage(from, { text: teks, mentions: participants.map(a => a.id) }, { quoted: msg })
+}
+break
+case "join": {
+if (!isOwner) return reply(mess.owner)
+if (!text) return reply(`Contoh ${prefix+command} linkgc`)
+if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return reply('Link Invalid!')
+let result = args[0].split('https://chat.whatsapp.com/')[1]
+await client.groupAcceptInvite(result).then((res) => reply(util.format(res))).catch((err) => reply(util.format(err)))
+}
+break
+
+default:
+}
+if (budy.startsWith('>')) {
+if (!isOwner) return khususOwner()
+try {
+let evaled = await eval(budy.slice(2))
+if (typeof evaled !== 'string') evaled = require('util').inspect(evaled)
+await reply(evaled)
+} catch (err) {
+reply(String(err))
+}
+}
+} catch (err) {
+console.log(util.format(err))
+let e = String(err)
+client.sendMessage(`${nomerOwner}@s.whatsapp.net`, {text:e})
+}
+}
+
+let file = require.resolve(__filename) 
+fs.watchFile(file, () => {
+fs.unwatchFile(file)
+console.log(chalk.redBright(`Update ${__filename}`))
+delete require.cache[file]
+require(file)
+})

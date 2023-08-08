@@ -1,1 +1,49 @@
-const _0x31fca1=_0x27fe;(function(_0x28f1ff,_0x2986d6){const _0x330a37=_0x27fe,_0x41d132=_0x28f1ff();while(!![]){try{const _0x37f77a=-parseInt(_0x330a37(0xba))/0x1+-parseInt(_0x330a37(0x9d))/0x2*(parseInt(_0x330a37(0xa1))/0x3)+-parseInt(_0x330a37(0xad))/0x4*(parseInt(_0x330a37(0xa3))/0x5)+parseInt(_0x330a37(0xbc))/0x6*(-parseInt(_0x330a37(0xbb))/0x7)+-parseInt(_0x330a37(0xb8))/0x8+parseInt(_0x330a37(0x9c))/0x9+parseInt(_0x330a37(0xa9))/0xa;if(_0x37f77a===_0x2986d6)break;else _0x41d132['push'](_0x41d132['shift']());}catch(_0x8ffcd2){_0x41d132['push'](_0x41d132['shift']());}}}(_0x14bb,0x95c20));function _0x14bb(){const _0x2aa348=['Gada','namaStore','redBright','FOXstore','36432650Jimdvs','nomerOwner','6289688206739','chalk','3422268htDzum','Update\x20','tekspushkonv2','tekspushkon','cache','*⌜\x20DONE\x20⌟*\x0a\x20udah\x20ya\x20Kak','unwatchFile','nomorOwner','tekspushkonv1','wet\x20proses\x20tod','resolve','7121952fSgvRX','tekspushkonv3','944259LOAbFm','35vxeeSg','284016WdfBQm','author','noDana','3421062UGEhqB','758DMDokj','Asbot','khusus\x20di\x20chat\x20private','packname','3825eXtOEb','Khusus\x20Di\x20Dalam\x20Group','5zveSGo','mess'];_0x14bb=function(){return _0x2aa348;};return _0x14bb();}function _0x27fe(_0x271c40,_0x49d0d2){const _0x14bb04=_0x14bb();return _0x27fe=function(_0x27fee1,_0x1f30e4){_0x27fee1=_0x27fee1-0x9c;let _0x58854f=_0x14bb04[_0x27fee1];return _0x58854f;},_0x27fe(_0x271c40,_0x49d0d2);}const chalk=require(_0x31fca1(0xac)),fs=require('fs');global['ownerNumber']=['6289688206739@s.whatsapp.net'],global[_0x31fca1(0xaa)]=_0x31fca1(0xab),global[_0x31fca1(0xb4)]=[_0x31fca1(0xab)],global['namaDeveloper']='Chio',global['namaBot']=_0x31fca1(0x9e),global[_0x31fca1(0xa6)]=_0x31fca1(0xa8),global[_0x31fca1(0xbe)]=_0x31fca1(0xab),global['noGopay']=_0x31fca1(0xab),global['noOvo']=_0x31fca1(0xa5),global[_0x31fca1(0xa0)]='',global[_0x31fca1(0xbd)]='Sticker\x20By\x20WilyKun',global[_0x31fca1(0xb0)]='',global[_0x31fca1(0xb5)]='',global[_0x31fca1(0xaf)]='',global[_0x31fca1(0xb9)]='',global[_0x31fca1(0xa4)]={'owner':'lu\x20siapa\x20?\x0a*Hmmmm*','proses':_0x31fca1(0xb6),'sukses':_0x31fca1(0xb2),'group':_0x31fca1(0xa2),'priv':_0x31fca1(0x9f)};let file=require[_0x31fca1(0xb7)](__filename);fs['watchFile'](file,()=>{const _0x720e47=_0x31fca1;fs[_0x720e47(0xb3)](file),console['log'](chalk[_0x720e47(0xa7)](_0x720e47(0xae)+__filename)),delete require[_0x720e47(0xb1)][file],require(file);});
+const chalk = require("chalk")
+const fs = require("fs")
+
+global.ownerNumber = ["6289688206739@s.whatsapp.net"]
+global.nomerOwner = "6289688206739"
+global.nomorOwner = ['6289688206739']
+global.namaDeveloper = "Chio"
+global.namaBot = "Asbot"
+
+//DATA BASE STORE
+global.namaStore = "FOXstore"
+global.noDana = "6289688206739"
+global.noGopay = "6289688206739"
+global.noOvo = "Gada"
+// BATAS BASE STORE
+
+//DATA BASE PUSH
+global.packname = ""
+global.author = "Sticker By WilyKun"
+global.tekspushkon = ""
+global.tekspushkonv1 = ""
+global.tekspushkonv2 = ""
+global.tekspushkonv3 = ""
+//BATAS DATA BASE PUSH
+
+// GLOBAL MESS
+global.mess = {
+   owner: "lu siapa ?\n*Hmmmm*",
+   proses: "wet proses tod",
+   sukses: "*⌜ DONE ⌟*\n udah ya Kak",
+   group: "Khusus Di Dalam Group",
+   priv: "khusus di chat private",
+}
+let file = require.resolve(__filename) 
+fs.watchFile(file, () => {
+fs.unwatchFile(file)
+console.log(chalk.redBright(`Update ${__filename}`))
+delete require.cache[file]
+require(file)
+})
+
+/*
+
+Thanks To By KirBotz
+Di Tulis Dan Di Fix Oleh ZIRO
+Ubah Nomor Owner?
+Ganti Di File ./owner.json
+
+*/
